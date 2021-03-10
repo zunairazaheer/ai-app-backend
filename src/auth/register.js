@@ -13,3 +13,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-02-21T09:08:22
 // Change: fix: memory leak in background worker
+
+// Updated: 2021-03-10T16:21:14
+// Change: fix: race condition in payment processing

@@ -14,3 +14,6 @@ This section describes the implementation.
 
 // Updated: 2021-04-03T17:25:42
 // Change: feat: implement file upload feature
+
+// Updated: 2021-04-17T14:55:53
+// Change: feat: add search functionality

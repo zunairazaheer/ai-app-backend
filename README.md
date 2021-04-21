@@ -5,3 +5,6 @@
 
 // Updated: 2021-04-04T14:17:18
 // Change: refactor: extract common validation logic
+
+// Updated: 2021-04-21T18:27:39
+// Change: security: patch XSS vulnerability

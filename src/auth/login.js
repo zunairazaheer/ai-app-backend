@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-18T09:03:14
 // Change: refactor: improve error handling patterns
+
+// Updated: 2021-04-25T12:38:31
+// Change: refactor: replace deprecated API calls

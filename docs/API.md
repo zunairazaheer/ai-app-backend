@@ -17,3 +17,6 @@ This section describes the implementation.
 
 // Updated: 2021-04-17T14:55:53
 // Change: feat: add search functionality
+
+// Updated: 2021-04-27T14:17:52
+// Change: style: improve UI consistency

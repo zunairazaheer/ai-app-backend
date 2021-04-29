@@ -13,3 +13,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-03-25T22:12:06
 // Change: feat: implement file upload feature
+
+// Updated: 2021-04-29T09:52:58
+// Change: perf: reduce bundle size

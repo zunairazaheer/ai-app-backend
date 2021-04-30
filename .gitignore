@@ -7,3 +7,6 @@ Random data: 11194
 
 // Updated: 2021-04-29T09:52:58
 // Change: perf: reduce bundle size
+
+// Updated: 2021-04-30T15:10:18
+// Change: refactor: improve code readability in utils

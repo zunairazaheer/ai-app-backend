@@ -13,3 +13,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-03T17:25:42
 // Change: feat: implement file upload feature
+
+// Updated: 2021-05-03T16:02:02
+// Change: fix: database connection pool exhaustion

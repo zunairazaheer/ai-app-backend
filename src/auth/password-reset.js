@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-02-19T17:24:33
 // Change: chore: update .gitignore file
+
+// Updated: 2021-05-03T16:02:02
+// Change: fix: database connection pool exhaustion

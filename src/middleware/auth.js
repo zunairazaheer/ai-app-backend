@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-25T17:59:15
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2021-05-15T17:11:20
+// Change: docs: update changelog for v2.0

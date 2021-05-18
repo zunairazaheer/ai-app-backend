@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-05-05T15:11:08
 // Change: style: improve UI consistency
+
+// Updated: 2021-05-18T12:00:05
+// Change: fix: database connection pool exhaustion

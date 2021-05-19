@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-21T18:27:39
 // Change: security: patch XSS vulnerability
+
+// Updated: 2021-05-19T15:48:10
+// Change: chore: remove unused imports and variables

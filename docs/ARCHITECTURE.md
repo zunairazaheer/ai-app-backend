@@ -11,3 +11,6 @@ This section describes the implementation.
 
 // Updated: 2021-05-04T23:55:49
 // Change: test: add integration tests for API
+
+// Updated: 2021-05-22T09:52:10
+// Change: docs: update changelog for v2.0

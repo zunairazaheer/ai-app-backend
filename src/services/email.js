@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-05-18T12:00:05
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2021-05-22T09:52:10
+// Change: docs: update changelog for v2.0

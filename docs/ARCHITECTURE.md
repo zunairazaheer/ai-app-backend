@@ -14,3 +14,6 @@ This section describes the implementation.
 
 // Updated: 2021-05-22T09:52:10
 // Change: docs: update changelog for v2.0
+
+// Updated: 2021-05-28T12:14:11
+// Change: fix: session timeout not working

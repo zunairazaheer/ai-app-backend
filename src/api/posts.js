@@ -13,3 +13,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-13T18:26:04
 // Change: test: fix flaky test in user service
+
+// Updated: 2021-06-05T10:37:39
+// Change: style: format code with prettier

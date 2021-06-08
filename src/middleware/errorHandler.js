@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-05-05T15:11:08
 // Change: style: improve UI consistency
+
+// Updated: 2021-06-08T05:58:45
+// Change: docs: add architecture diagram

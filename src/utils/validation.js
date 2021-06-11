@@ -13,3 +13,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-30T15:10:18
 // Change: refactor: improve code readability in utils
+
+// Updated: 2021-06-11T14:44:34
+// Change: fix: race condition in payment processing

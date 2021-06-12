@@ -22,3 +22,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-05-22T09:52:10
 // Change: docs: update changelog for v2.0
+
+// Updated: 2021-06-12T06:47:46
+// Change: fix: incorrect calculation in analytics

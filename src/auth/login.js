@@ -22,3 +22,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-06-16T16:24:58
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2021-07-03T11:52:19
+// Change: refactor: improve code readability in utils

@@ -25,3 +25,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-06-12T06:47:46
 // Change: fix: incorrect calculation in analytics
+
+// Updated: 2021-07-04T08:27:35
+// Change: test: add integration tests for API

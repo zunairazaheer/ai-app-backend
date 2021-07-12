@@ -25,3 +25,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-07-03T11:52:19
 // Change: refactor: improve code readability in utils
+
+// Updated: 2021-07-12T18:21:42
+// Change: refactor: optimize database indexes

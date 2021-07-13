@@ -23,3 +23,6 @@ This section describes the implementation.
 
 // Updated: 2021-07-03T11:52:19
 // Change: refactor: improve code readability in utils
+
+// Updated: 2021-07-13T12:21:05
+// Change: style: improve UI consistency

@@ -31,3 +31,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-07-07T06:59:16
 // Change: refactor: extract common validation logic
+
+// Updated: 2021-07-17T13:00:53
+// Change: fix: resolve null pointer exception in user service

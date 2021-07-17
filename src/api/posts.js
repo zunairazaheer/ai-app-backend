@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-06-05T10:37:39
 // Change: style: format code with prettier
+
+// Updated: 2021-07-17T13:35:24
+// Change: fix: CSS styling issue on mobile devices

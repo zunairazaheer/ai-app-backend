@@ -17,3 +17,6 @@ This section describes the implementation.
 
 // Updated: 2021-05-28T12:14:11
 // Change: fix: session timeout not working
+
+// Updated: 2021-07-29T18:33:55
+// Change: security: implement CSRF protection

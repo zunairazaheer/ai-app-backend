@@ -28,3 +28,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-07-04T08:27:35
 // Change: test: add integration tests for API
+
+// Updated: 2021-08-03T18:18:09
+// Change: fix: correct timezone handling in scheduler

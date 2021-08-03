@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-06-11T14:44:34
 // Change: fix: race condition in payment processing
+
+// Updated: 2021-08-03T18:18:09
+// Change: fix: correct timezone handling in scheduler

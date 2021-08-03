@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-06-11T12:42:48
 // Change: perf: optimize database queries
+
+// Updated: 2021-08-03T18:18:09
+// Change: fix: correct timezone handling in scheduler

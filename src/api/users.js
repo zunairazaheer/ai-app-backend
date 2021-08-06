@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-05-25T09:38:23
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2021-08-06T11:02:20
+// Change: docs: create contributing guidelines

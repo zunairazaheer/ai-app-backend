@@ -34,3 +34,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-07-17T13:00:53
 // Change: fix: resolve null pointer exception in user service
+
+// Updated: 2021-08-11T18:04:19
+// Change: docs: update changelog for v2.0

@@ -22,3 +22,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-08-06T11:02:20
 // Change: docs: create contributing guidelines
+
+// Updated: 2021-08-11T18:04:19
+// Change: docs: update changelog for v2.0

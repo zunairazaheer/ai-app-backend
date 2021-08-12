@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-05-10T01:24:01
 // Change: security: patch XSS vulnerability
+
+// Updated: 2021-08-12T13:56:17
+// Change: chore: upgrade Node.js version

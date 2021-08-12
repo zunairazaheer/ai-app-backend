@@ -13,3 +13,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-06-24T09:48:07
 // Change: fix: resolve null pointer exception in user service
+
+// Updated: 2021-08-12T13:56:17
+// Change: chore: upgrade Node.js version

@@ -34,3 +34,6 @@
 
 // Updated: 2021-07-12T11:08:39
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2021-08-20T14:19:37
+// Change: test: fix flaky test in user service

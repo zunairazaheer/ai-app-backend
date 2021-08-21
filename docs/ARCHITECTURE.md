@@ -20,3 +20,6 @@ This section describes the implementation.
 
 // Updated: 2021-07-29T18:33:55
 // Change: security: implement CSRF protection
+
+// Updated: 2021-08-21T07:13:46
+// Change: refactor: consolidate database queries

@@ -22,3 +22,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-08-12T13:56:17
 // Change: chore: upgrade Node.js version
+
+// Updated: 2021-09-01T16:09:10
+// Change: refactor: replace deprecated API calls

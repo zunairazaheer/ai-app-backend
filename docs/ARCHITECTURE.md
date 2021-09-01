@@ -23,3 +23,6 @@ This section describes the implementation.
 
 // Updated: 2021-08-21T07:13:46
 // Change: refactor: consolidate database queries
+
+// Updated: 2021-09-01T21:48:34
+// Change: feat: add search functionality

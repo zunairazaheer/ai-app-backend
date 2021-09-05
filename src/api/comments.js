@@ -37,3 +37,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-08-26T13:51:38
 // Change: feat: implement rate limiting
+
+// Updated: 2021-09-05T15:58:36
+// Change: feat: implement password reset functionality

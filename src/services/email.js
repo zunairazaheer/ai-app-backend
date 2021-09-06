@@ -28,3 +28,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-08-03T09:02:31
 // Change: perf: improve API response time
+
+// Updated: 2021-09-06T17:33:52
+// Change: fix: database connection pool exhaustion

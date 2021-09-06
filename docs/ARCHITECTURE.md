@@ -26,3 +26,6 @@ This section describes the implementation.
 
 // Updated: 2021-09-01T21:48:34
 // Change: feat: add search functionality
+
+// Updated: 2021-09-06T17:33:52
+// Change: fix: database connection pool exhaustion

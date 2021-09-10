@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-29T09:52:58
 // Change: perf: reduce bundle size
+
+// Updated: 2021-09-10T13:25:02
+// Change: refactor: move configuration to environment variables

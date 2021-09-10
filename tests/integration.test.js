@@ -25,3 +25,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-08-28T05:09:07
 // Change: test: improve test coverage for auth
+
+// Updated: 2021-09-10T13:25:02
+// Change: refactor: move configuration to environment variables

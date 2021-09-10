@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-09-05T15:58:36
 // Change: feat: implement password reset functionality
+
+// Updated: 2021-09-10T13:25:02
+// Change: refactor: move configuration to environment variables

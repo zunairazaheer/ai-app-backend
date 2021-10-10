@@ -16,3 +16,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-04-13T18:08:28
 // Change: fix: race condition in payment processing
+
+// Updated: 2021-10-10T13:52:48
+// Change: fix: database connection pool exhaustion

@@ -25,3 +25,9 @@ export default { VERSION, processData };
 
 // Updated: 2021-09-01T16:09:10
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2021-10-10T10:47:09
+// Change: fix: validation error in signup form
+
+// Updated: 2021-10-10T10:47:09
+// Change: fix: validation error in signup form

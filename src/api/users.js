@@ -31,3 +31,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-08-31T16:11:08
 // Change: style: improve UI consistency
+
+// Updated: 2021-10-10T10:06:45
+// Change: feat: implement password reset functionality

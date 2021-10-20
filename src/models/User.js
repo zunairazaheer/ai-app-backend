@@ -28,3 +28,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-10-06T18:18:47
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2021-10-20T21:08:42
+// Change: docs: create contributing guidelines

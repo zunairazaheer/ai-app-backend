@@ -34,3 +34,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-08-31T22:09:30
 // Change: feat: add user authentication system
+
+// Updated: 2021-10-23T11:23:54
+// Change: feat: add search functionality

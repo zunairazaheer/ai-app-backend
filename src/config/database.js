@@ -22,3 +22,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-10-12T14:46:18
 // Change: feat: create API documentation
+
+// Updated: 2021-10-24T09:29:06
+// Change: feat: add dark mode support

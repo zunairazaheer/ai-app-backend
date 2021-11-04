@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-09-10T13:25:02
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2021-11-04T12:17:07
+// Change: docs: update README with installation steps

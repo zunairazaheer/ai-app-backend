@@ -22,3 +22,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-04T12:17:07
 // Change: docs: update README with installation steps
+
+// Updated: 2021-11-18T14:06:17
+// Change: fix: race condition in payment processing

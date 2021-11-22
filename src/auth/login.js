@@ -37,3 +37,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-10-23T11:23:54
 // Change: feat: add search functionality
+
+// Updated: 2021-11-22T12:24:11
+// Change: fix: database connection pool exhaustion

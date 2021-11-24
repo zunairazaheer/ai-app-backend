@@ -40,3 +40,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-22T12:24:11
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2021-11-24T13:02:04
+// Change: feat: add email verification

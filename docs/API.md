@@ -32,3 +32,6 @@ This section describes the implementation.
 
 // Updated: 2021-11-22T12:24:11
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2021-11-27T16:37:33
+// Change: fix: validation error in signup form

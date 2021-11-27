@@ -31,3 +31,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-04T12:17:07
 // Change: docs: update README with installation steps
+
+// Updated: 2021-11-27T16:37:33
+// Change: fix: validation error in signup form

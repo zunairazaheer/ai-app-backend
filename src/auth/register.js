@@ -43,3 +43,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-06T17:43:21
 // Change: refactor: extract common validation logic
+
+// Updated: 2021-12-05T12:37:31
+// Change: docs: update changelog for v2.0

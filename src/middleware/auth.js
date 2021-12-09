@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-05-15T17:11:20
 // Change: docs: update changelog for v2.0
+
+// Updated: 2021-12-09T14:29:46
+// Change: feat: create API documentation

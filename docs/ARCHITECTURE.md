@@ -32,3 +32,6 @@ This section describes the implementation.
 
 // Updated: 2021-10-05T10:48:02
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2021-12-09T14:29:46
+// Change: feat: create API documentation

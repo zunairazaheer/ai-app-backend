@@ -22,3 +22,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-26T14:07:49
 // Change: refactor: consolidate database queries
+
+// Updated: 2021-12-11T15:47:08
+// Change: fix: resolve null pointer exception in user service

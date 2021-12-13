@@ -43,3 +43,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-10T07:28:14
 // Change: test: improve test coverage for auth
+
+// Updated: 2021-12-13T09:39:00
+// Change: docs: add API endpoint documentation

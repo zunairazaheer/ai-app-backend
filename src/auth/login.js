@@ -43,3 +43,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-24T13:02:04
 // Change: feat: add email verification
+
+// Updated: 2021-12-17T15:14:21
+// Change: docs: update README with installation steps

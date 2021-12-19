@@ -25,3 +25,6 @@ Random data: 11194
 
 // Updated: 2021-10-27T17:03:17
 // Change: test: add integration tests for API
+
+// Updated: 2021-12-19T16:02:17
+// Change: security: patch XSS vulnerability

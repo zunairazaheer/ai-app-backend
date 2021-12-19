@@ -31,3 +31,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-10-20T21:08:42
 // Change: docs: create contributing guidelines
+
+// Updated: 2021-12-19T10:03:06
+// Change: test: add integration tests for API

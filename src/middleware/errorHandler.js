@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-13T09:39:00
 // Change: docs: add API endpoint documentation
+
+// Updated: 2021-12-19T10:03:06
+// Change: test: add integration tests for API

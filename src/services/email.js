@@ -37,3 +37,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-04T13:20:13
 // Change: test: fix flaky test in user service
+
+// Updated: 2021-12-28T14:16:36
+// Change: docs: update README with installation steps

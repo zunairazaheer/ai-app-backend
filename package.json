@@ -16,3 +16,6 @@ Random data: 3873
 
 // Updated: 2021-10-12T14:46:18
 // Change: feat: create API documentation
+
+// Updated: 2021-12-31T17:00:21
+// Change: refactor: simplify authentication flow

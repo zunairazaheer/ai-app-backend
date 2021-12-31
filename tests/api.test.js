@@ -25,3 +25,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-11-26T14:07:49
 // Change: refactor: consolidate database queries
+
+// Updated: 2021-12-31T17:00:21
+// Change: refactor: simplify authentication flow

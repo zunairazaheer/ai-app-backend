@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-09T14:29:46
 // Change: feat: create API documentation
+
+// Updated: 2021-12-31T17:00:21
+// Change: refactor: simplify authentication flow

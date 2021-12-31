@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-17T15:14:21
 // Change: docs: update README with installation steps
+
+// Updated: 2022-01-01T02:46:10
+// Change: refactor: optimize database indexes

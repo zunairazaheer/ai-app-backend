@@ -19,3 +19,6 @@ Random data: 3873
 
 // Updated: 2021-12-31T17:00:21
 // Change: refactor: simplify authentication flow
+
+// Updated: 2022-01-03T17:40:22
+// Change: style: format code with prettier

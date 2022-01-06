@@ -40,3 +40,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-28T14:16:36
 // Change: docs: update README with installation steps
+
+// Updated: 2022-01-06T15:52:15
+// Change: fix: broken link in navigation menu

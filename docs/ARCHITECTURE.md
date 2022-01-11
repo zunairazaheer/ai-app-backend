@@ -35,3 +35,6 @@ This section describes the implementation.
 
 // Updated: 2021-12-09T14:29:46
 // Change: feat: create API documentation
+
+// Updated: 2022-01-11T16:40:10
+// Change: feat: add email verification

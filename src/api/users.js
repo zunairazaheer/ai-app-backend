@@ -34,3 +34,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-10-10T10:06:45
 // Change: feat: implement password reset functionality
+
+// Updated: 2022-01-11T16:40:10
+// Change: feat: add email verification

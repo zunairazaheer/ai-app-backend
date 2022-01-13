@@ -25,3 +25,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-10-06T09:33:15
 // Change: chore: upgrade Node.js version
+
+// Updated: 2022-01-13T09:57:31
+// Change: feat: add user authentication system

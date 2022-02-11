@@ -22,3 +22,6 @@ Random data: 3873
 
 // Updated: 2022-01-03T17:40:22
 // Change: style: format code with prettier
+
+// Updated: 2022-02-11T13:57:50
+// Change: refactor: improve code readability in utils

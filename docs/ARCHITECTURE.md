@@ -38,3 +38,6 @@ This section describes the implementation.
 
 // Updated: 2022-01-11T16:40:10
 // Change: feat: add email verification
+
+// Updated: 2022-02-28T13:53:44
+// Change: fix: race condition in payment processing

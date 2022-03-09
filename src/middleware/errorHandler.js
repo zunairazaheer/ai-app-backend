@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-19T10:03:06
 // Change: test: add integration tests for API
+
+// Updated: 2022-03-09T16:24:54
+// Change: refactor: simplify authentication flow

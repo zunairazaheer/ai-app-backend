@@ -43,3 +43,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-01-06T15:52:15
 // Change: fix: broken link in navigation menu
+
+// Updated: 2022-03-10T15:39:44
+// Change: feat: add email verification

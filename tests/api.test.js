@@ -28,3 +28,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-31T17:00:21
 // Change: refactor: simplify authentication flow
+
+// Updated: 2022-03-10T15:39:44
+// Change: feat: add email verification

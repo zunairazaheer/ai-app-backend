@@ -61,3 +61,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-02-13T09:28:10
 // Change: feat: create admin dashboard
+
+// Updated: 2022-03-12T07:44:48
+// Change: feat: add user authentication system

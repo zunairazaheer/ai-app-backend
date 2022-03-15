@@ -37,3 +37,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-03-05T15:25:09
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2022-03-15T13:25:19
+// Change: docs: update changelog for v2.0

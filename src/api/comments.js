@@ -52,3 +52,6 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-30T13:26:18
 // Change: chore: upgrade Node.js version
+
+// Updated: 2022-03-20T17:11:02
+// Change: fix: CSS styling issue on mobile devices

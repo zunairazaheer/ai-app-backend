@@ -38,3 +38,6 @@ This section describes the implementation.
 
 // Updated: 2021-12-25T12:09:41
 // Change: perf: improve API response time
+
+// Updated: 2022-03-20T17:11:02
+// Change: fix: CSS styling issue on mobile devices

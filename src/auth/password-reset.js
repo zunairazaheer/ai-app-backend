@@ -40,3 +40,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-03-15T13:25:19
 // Change: docs: update changelog for v2.0
+
+// Updated: 2022-03-26T13:34:31
+// Change: perf: reduce bundle size

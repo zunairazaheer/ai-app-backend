@@ -67,3 +67,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-03-22T14:31:13
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2022-03-26T13:34:31
+// Change: perf: reduce bundle size

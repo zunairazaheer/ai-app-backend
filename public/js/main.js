@@ -25,3 +25,9 @@ export default { VERSION, processData };
 
 // Updated: 2021-12-11T15:47:08
 // Change: fix: resolve null pointer exception in user service
+
+// Updated: 2022-04-18T18:46:35
+// Change: refactor: simplify authentication flow
+
+// Updated: 2022-04-18T18:46:35
+// Change: refactor: simplify authentication flow

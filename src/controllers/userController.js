@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-04-09T14:54:39
 // Change: fix: session timeout not working
+
+// Updated: 2022-04-18T18:46:35
+// Change: refactor: simplify authentication flow

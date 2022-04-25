@@ -41,3 +41,6 @@ This section describes the implementation.
 
 // Updated: 2022-03-20T17:11:02
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2022-04-25T12:07:51
+// Change: feat: add email verification

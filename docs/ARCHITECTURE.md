@@ -44,3 +44,6 @@ This section describes the implementation.
 
 // Updated: 2022-03-18T13:14:17
 // Change: chore: upgrade Node.js version
+
+// Updated: 2022-04-26T07:15:26
+// Change: test: add e2e tests for checkout flow

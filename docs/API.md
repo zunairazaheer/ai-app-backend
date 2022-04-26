@@ -44,3 +44,6 @@ This section describes the implementation.
 
 // Updated: 2022-04-25T12:07:51
 // Change: feat: add email verification
+
+// Updated: 2022-04-26T07:15:26
+// Change: test: add e2e tests for checkout flow

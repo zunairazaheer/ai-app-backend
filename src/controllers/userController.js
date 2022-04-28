@@ -55,3 +55,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-04-25T12:07:51
 // Change: feat: add email verification
+
+// Updated: 2022-04-28T21:19:18
+// Change: test: add integration tests for API

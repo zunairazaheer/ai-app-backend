@@ -31,3 +31,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-04-18T18:46:35
 // Change: refactor: simplify authentication flow
+
+// Updated: 2022-04-28T15:20:46
+// Change: fix: validation error in signup form

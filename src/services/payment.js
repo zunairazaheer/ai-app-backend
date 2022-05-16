@@ -28,3 +28,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-03-15T13:25:19
 // Change: docs: update changelog for v2.0
+
+// Updated: 2022-05-16T15:59:33
+// Change: feat: implement pagination for lists

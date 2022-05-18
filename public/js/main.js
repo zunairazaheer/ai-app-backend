@@ -34,3 +34,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-04-28T15:20:46
 // Change: fix: validation error in signup form
+
+// Updated: 2022-05-18T13:33:20
+// Change: style: format code with prettier

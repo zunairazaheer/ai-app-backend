@@ -37,3 +37,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-04-25T12:07:51
 // Change: feat: add email verification
+
+// Updated: 2022-06-08T11:28:58
+// Change: refactor: extract common validation logic

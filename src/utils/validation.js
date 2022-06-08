@@ -31,3 +31,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-03-14T19:39:23
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2022-06-08T10:53:16
+// Change: docs: update README with installation steps

@@ -37,3 +37,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-05-22T15:21:14
 // Change: style: fix linting issues
+
+// Updated: 2022-06-08T10:53:16
+// Change: docs: update README with installation steps

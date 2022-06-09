@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-05-23T10:11:58
 // Change: refactor: consolidate database queries
+
+// Updated: 2022-06-09T17:12:31
+// Change: fix: memory leak in background worker

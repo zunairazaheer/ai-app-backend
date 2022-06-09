@@ -47,3 +47,6 @@ This section describes the implementation.
 
 // Updated: 2022-04-26T07:15:26
 // Change: test: add e2e tests for checkout flow
+
+// Updated: 2022-06-09T17:12:31
+// Change: fix: memory leak in background worker

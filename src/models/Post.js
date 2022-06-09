@@ -40,3 +40,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-06-08T11:28:58
 // Change: refactor: extract common validation logic
+
+// Updated: 2022-06-09T17:12:31
+// Change: fix: memory leak in background worker

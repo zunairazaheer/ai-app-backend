@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-04-04T01:15:34
 // Change: fix: session timeout not working
+
+// Updated: 2022-06-11T08:40:54
+// Change: feat: add user authentication system

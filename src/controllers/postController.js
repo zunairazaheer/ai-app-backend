@@ -19,3 +19,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-02-11T13:57:50
 // Change: refactor: improve code readability in utils
+
+// Updated: 2022-06-13T18:14:50
+// Change: docs: create contributing guidelines

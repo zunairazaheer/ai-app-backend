@@ -34,3 +34,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-05-23T10:11:58
 // Change: refactor: consolidate database queries
+
+// Updated: 2022-06-13T18:14:50
+// Change: docs: create contributing guidelines

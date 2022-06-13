@@ -25,3 +25,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-06-08T08:06:11
 // Change: fix: broken link in navigation menu
+
+// Updated: 2022-06-13T11:30:21
+// Change: refactor: move configuration to environment variables

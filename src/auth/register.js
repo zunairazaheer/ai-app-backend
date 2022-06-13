@@ -73,3 +73,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-05-28T17:52:06
 // Change: refactor: improve code readability in utils
+
+// Updated: 2022-06-13T11:30:21
+// Change: refactor: move configuration to environment variables

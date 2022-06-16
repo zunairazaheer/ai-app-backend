@@ -40,3 +40,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-05-22T15:21:14
 // Change: style: fix linting issues
+
+// Updated: 2022-06-16T17:05:58
+// Change: refactor: move configuration to environment variables

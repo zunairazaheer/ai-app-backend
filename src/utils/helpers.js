@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-06-24T11:04:27
 // Change: fix: race condition in payment processing
+
+// Updated: 2022-06-27T11:22:11
+// Change: fix: broken link in navigation menu

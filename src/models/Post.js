@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-07-02T14:14:56
 // Change: refactor: optimize database indexes
+
+// Updated: 2022-07-07T03:30:16
+// Change: docs: add API endpoint documentation

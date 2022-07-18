@@ -50,3 +50,6 @@ This section describes the implementation.
 
 // Updated: 2022-06-04T13:39:52
 // Change: chore: remove unused imports and variables
+
+// Updated: 2022-07-18T09:33:46
+// Change: chore: upgrade Node.js version

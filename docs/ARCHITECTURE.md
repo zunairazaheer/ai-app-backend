@@ -53,3 +53,6 @@ This section describes the implementation.
 
 // Updated: 2022-07-02T14:14:56
 // Change: refactor: optimize database indexes
+
+// Updated: 2022-07-27T20:55:02
+// Change: docs: create contributing guidelines

@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-07-07T03:30:16
 // Change: docs: add API endpoint documentation
+
+// Updated: 2022-07-27T20:55:02
+// Change: docs: create contributing guidelines

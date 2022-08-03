@@ -23,3 +23,6 @@
 
 // Updated: 2022-07-11T18:14:41
 // Change: feat: implement file upload feature
+
+// Updated: 2022-08-03T14:35:02
+// Change: style: fix linting issues

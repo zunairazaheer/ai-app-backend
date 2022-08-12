@@ -53,3 +53,6 @@ This section describes the implementation.
 
 // Updated: 2022-07-18T09:33:46
 // Change: chore: upgrade Node.js version
+
+// Updated: 2022-08-12T17:46:52
+// Change: style: format code with prettier

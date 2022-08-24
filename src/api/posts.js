@@ -28,3 +28,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-06-13T11:30:21
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2022-08-24T12:19:03
+// Change: test: fix flaky test in user service

@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-07-18T09:33:46
 // Change: chore: upgrade Node.js version
+
+// Updated: 2022-08-28T16:11:36
+// Change: docs: create contributing guidelines

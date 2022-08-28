@@ -64,3 +64,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-13T02:25:12
 // Change: feat: add user authentication system
+
+// Updated: 2022-08-28T16:11:36
+// Change: docs: create contributing guidelines

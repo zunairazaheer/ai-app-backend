@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-26T06:06:11
 // Change: feat: add user authentication system
+
+// Updated: 2022-08-29T17:28:45
+// Change: docs: update changelog for v2.0

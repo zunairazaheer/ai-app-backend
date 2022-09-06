@@ -56,3 +56,6 @@ This section describes the implementation.
 
 // Updated: 2022-08-12T17:46:52
 // Change: style: format code with prettier
+
+// Updated: 2022-09-06T12:44:49
+// Change: perf: reduce bundle size

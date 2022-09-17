@@ -56,3 +56,6 @@ This section describes the implementation.
 
 // Updated: 2022-07-27T20:55:02
 // Change: docs: create contributing guidelines
+
+// Updated: 2022-09-17T15:28:50
+// Change: security: patch XSS vulnerability

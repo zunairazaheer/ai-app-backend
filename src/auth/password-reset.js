@@ -52,3 +52,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-29T17:28:45
 // Change: docs: update changelog for v2.0
+
+// Updated: 2022-09-18T13:16:13
+// Change: docs: add architecture diagram

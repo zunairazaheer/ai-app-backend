@@ -64,3 +64,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-31T11:06:27
 // Change: feat: implement rate limiting
+
+// Updated: 2022-09-24T12:18:53
+// Change: refactor: replace deprecated API calls

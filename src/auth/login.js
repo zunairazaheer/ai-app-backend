@@ -73,3 +73,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-31T11:42:53
 // Change: fix: session timeout not working
+
+// Updated: 2022-09-28T06:31:31
+// Change: fix: validation error in signup form

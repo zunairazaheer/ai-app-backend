@@ -61,3 +61,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-09-16T14:49:41
 // Change: fix: incorrect calculation in analytics
+
+// Updated: 2022-09-29T21:04:18
+// Change: refactor: replace deprecated API calls

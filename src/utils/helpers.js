@@ -64,3 +64,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-19T14:15:47
 // Change: docs: update README with installation steps
+
+// Updated: 2022-09-29T15:56:52
+// Change: docs: add API endpoint documentation

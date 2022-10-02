@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-09-07T10:15:06
 // Change: feat: add dark mode support
+
+// Updated: 2022-10-02T14:21:00
+// Change: fix: validation error in signup form

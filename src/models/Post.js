@@ -52,3 +52,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-07-27T20:55:02
 // Change: docs: create contributing guidelines
+
+// Updated: 2022-10-09T11:19:18
+// Change: fix: memory leak in background worker

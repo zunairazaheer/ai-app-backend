@@ -70,3 +70,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-09-24T15:35:36
 // Change: test: add integration tests for API
+
+// Updated: 2022-10-09T11:19:18
+// Change: fix: memory leak in background worker

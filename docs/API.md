@@ -62,3 +62,6 @@ This section describes the implementation.
 
 // Updated: 2022-09-10T09:38:37
 // Change: refactor: consolidate database queries
+
+// Updated: 2022-10-09T11:19:18
+// Change: fix: memory leak in background worker

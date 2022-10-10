@@ -55,3 +55,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-09-18T13:16:13
 // Change: docs: add architecture diagram
+
+// Updated: 2022-10-10T15:51:07
+// Change: refactor: replace deprecated API calls

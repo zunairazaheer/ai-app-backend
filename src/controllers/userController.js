@@ -70,3 +70,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-09-16T01:06:57
 // Change: chore: remove unused imports and variables
+
+// Updated: 2022-10-10T15:51:07
+// Change: refactor: replace deprecated API calls

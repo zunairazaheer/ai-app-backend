@@ -73,3 +73,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-09T11:19:18
 // Change: fix: memory leak in background worker
+
+// Updated: 2022-10-12T16:29:42
+// Change: fix: database connection pool exhaustion

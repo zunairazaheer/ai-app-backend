@@ -67,3 +67,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-12T16:20:36
 // Change: test: add integration tests for API
+
+// Updated: 2022-10-18T16:54:05
+// Change: refactor: move configuration to environment variables

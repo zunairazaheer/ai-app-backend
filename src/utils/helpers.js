@@ -67,3 +67,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-09-29T15:56:52
 // Change: docs: add API endpoint documentation
+
+// Updated: 2022-10-18T16:54:05
+// Change: refactor: move configuration to environment variables

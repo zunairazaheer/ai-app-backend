@@ -65,3 +65,6 @@ This section describes the implementation.
 
 // Updated: 2022-10-09T11:19:18
 // Change: fix: memory leak in background worker
+
+// Updated: 2022-10-23T11:41:34
+// Change: feat: implement rate limiting

@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-22T12:40:12
 // Change: refactor: improve code readability in utils
+
+// Updated: 2022-11-01T18:41:06
+// Change: perf: reduce bundle size

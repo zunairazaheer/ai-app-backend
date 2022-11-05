@@ -73,3 +73,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-31T15:44:43
 // Change: feat: create API documentation
+
+// Updated: 2022-11-05T16:27:27
+// Change: fix: memory leak in background worker

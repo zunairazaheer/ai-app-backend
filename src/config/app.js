@@ -55,3 +55,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-25T12:10:57
 // Change: perf: optimize database queries
+
+// Updated: 2022-11-05T16:27:27
+// Change: fix: memory leak in background worker

@@ -82,3 +82,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-08-31T11:42:53
 // Change: fix: session timeout not working
+
+// Updated: 2022-11-05T16:27:27
+// Change: fix: memory leak in background worker

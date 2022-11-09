@@ -68,3 +68,6 @@ This section describes the implementation.
 
 // Updated: 2022-10-23T11:41:34
 // Change: feat: implement rate limiting
+
+// Updated: 2022-11-09T08:57:18
+// Change: refactor: replace deprecated API calls

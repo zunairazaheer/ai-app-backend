@@ -29,3 +29,6 @@
 
 // Updated: 2022-10-31T20:50:18
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2022-11-12T05:53:12
+// Change: feat: create API documentation

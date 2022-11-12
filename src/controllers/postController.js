@@ -31,3 +31,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-11-08T09:42:57
 // Change: feat: implement pagination for lists
+
+// Updated: 2022-11-12T05:53:12
+// Change: feat: create API documentation

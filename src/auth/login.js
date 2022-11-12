@@ -79,3 +79,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-23T11:41:34
 // Change: feat: implement rate limiting
+
+// Updated: 2022-11-12T05:53:12
+// Change: feat: create API documentation

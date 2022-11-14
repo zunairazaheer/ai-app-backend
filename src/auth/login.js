@@ -82,3 +82,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-11-12T05:53:12
 // Change: feat: create API documentation
+
+// Updated: 2022-11-14T21:24:44
+// Change: fix: CSS styling issue on mobile devices

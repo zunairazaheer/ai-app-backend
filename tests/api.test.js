@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-11-03T16:23:49
 // Change: fix: memory leak in background worker
+
+// Updated: 2022-11-22T17:10:17
+// Change: docs: update README with installation steps

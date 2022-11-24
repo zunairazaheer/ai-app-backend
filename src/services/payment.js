@@ -43,3 +43,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-11-13T14:32:52
 // Change: style: improve UI consistency
+
+// Updated: 2022-11-25T04:58:57
+// Change: docs: update README with installation steps

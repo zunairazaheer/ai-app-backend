@@ -61,3 +61,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-11-09T08:57:18
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2022-11-25T04:58:57
+// Change: docs: update README with installation steps

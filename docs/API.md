@@ -71,3 +71,6 @@ This section describes the implementation.
 
 // Updated: 2022-11-09T08:57:18
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2022-11-26T09:50:52
+// Change: refactor: consolidate database queries

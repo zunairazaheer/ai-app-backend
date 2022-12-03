@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-26T13:21:01
 // Change: refactor: improve code readability in utils
+
+// Updated: 2022-12-03T22:42:16
+// Change: security: patch XSS vulnerability

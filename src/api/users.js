@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-12T16:29:42
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2022-12-03T22:42:16
+// Change: security: patch XSS vulnerability

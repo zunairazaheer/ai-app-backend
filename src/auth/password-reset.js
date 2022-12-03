@@ -64,3 +64,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-30T09:49:10
 // Change: security: add input sanitization
+
+// Updated: 2022-12-03T22:42:16
+// Change: security: patch XSS vulnerability

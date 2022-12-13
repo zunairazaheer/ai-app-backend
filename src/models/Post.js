@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-31T20:50:18
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2022-12-13T15:07:25
+// Change: docs: update README with installation steps

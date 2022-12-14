@@ -55,3 +55,6 @@ Random data: 11194
 
 // Updated: 2022-12-08T13:31:06
 // Change: feat: create admin dashboard
+
+// Updated: 2022-12-14T15:37:41
+// Change: refactor: extract common validation logic

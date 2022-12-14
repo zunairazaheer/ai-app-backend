@@ -52,3 +52,6 @@ Random data: 3873
 
 // Updated: 2022-11-19T13:48:27
 // Change: docs: create contributing guidelines
+
+// Updated: 2022-12-14T15:37:41
+// Change: refactor: extract common validation logic

@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-12-03T22:42:16
 // Change: security: patch XSS vulnerability
+
+// Updated: 2022-12-14T06:10:04
+// Change: fix: session timeout not working

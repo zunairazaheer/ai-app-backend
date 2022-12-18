@@ -79,3 +79,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-12-03T22:42:16
 // Change: security: patch XSS vulnerability
+
+// Updated: 2022-12-18T10:52:59
+// Change: fix: validation error in signup form

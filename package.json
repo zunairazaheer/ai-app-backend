@@ -55,3 +55,6 @@ Random data: 3873
 
 // Updated: 2022-12-14T15:37:41
 // Change: refactor: extract common validation logic
+
+// Updated: 2022-12-18T10:52:59
+// Change: fix: validation error in signup form

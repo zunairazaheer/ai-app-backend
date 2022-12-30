@@ -77,3 +77,6 @@ This section describes the implementation.
 
 // Updated: 2022-12-27T01:49:17
 // Change: test: add unit tests for payment module
+
+// Updated: 2022-12-30T14:47:09
+// Change: fix: validation error in signup form

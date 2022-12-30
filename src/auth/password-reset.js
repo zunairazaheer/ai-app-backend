@@ -70,3 +70,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-12-04T12:18:50
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2022-12-30T14:47:09
+// Change: fix: validation error in signup form

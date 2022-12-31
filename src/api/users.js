@@ -82,3 +82,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-12-18T10:52:59
 // Change: fix: validation error in signup form
+
+// Updated: 2022-12-31T17:30:56
+// Change: docs: update changelog for v2.0

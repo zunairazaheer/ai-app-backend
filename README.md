@@ -35,3 +35,6 @@
 
 // Updated: 2022-12-27T16:42:25
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2022-12-31T11:29:39
+// Change: docs: add API endpoint documentation

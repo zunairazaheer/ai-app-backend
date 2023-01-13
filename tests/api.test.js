@@ -52,3 +52,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-11-22T17:10:17
 // Change: docs: update README with installation steps
+
+// Updated: 2023-01-13T15:34:58
+// Change: docs: create contributing guidelines

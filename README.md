@@ -38,3 +38,6 @@
 
 // Updated: 2022-12-31T11:29:39
 // Change: docs: add API endpoint documentation
+
+// Updated: 2023-01-13T15:34:58
+// Change: docs: create contributing guidelines

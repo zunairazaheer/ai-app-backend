@@ -61,3 +61,6 @@ Random data: 11194
 
 // Updated: 2022-12-20T12:52:35
 // Change: feat: create admin dashboard
+
+// Updated: 2023-01-16T11:23:57
+// Change: refactor: optimize database indexes

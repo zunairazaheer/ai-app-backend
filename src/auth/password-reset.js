@@ -73,3 +73,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-12-30T14:47:09
 // Change: fix: validation error in signup form
+
+// Updated: 2023-01-30T12:43:46
+// Change: security: upgrade vulnerable dependencies

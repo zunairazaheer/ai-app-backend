@@ -64,3 +64,9 @@ export default { VERSION, processData };
 
 // Updated: 2023-01-29T18:31:57
 // Change: style: update color scheme
+
+// Updated: 2023-02-01T17:21:30
+// Change: feat: add dark mode support
+
+// Updated: 2023-02-01T17:21:30
+// Change: feat: add dark mode support

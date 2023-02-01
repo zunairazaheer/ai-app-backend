@@ -40,3 +40,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-01-15T14:25:08
 // Change: fix: session timeout not working
+
+// Updated: 2023-02-01T19:52:45
+// Change: feat: add email verification

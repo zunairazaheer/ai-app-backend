@@ -85,3 +85,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-11-14T21:24:44
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2023-02-01T19:52:45
+// Change: feat: add email verification

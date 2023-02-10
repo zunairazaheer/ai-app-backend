@@ -41,3 +41,6 @@
 
 // Updated: 2023-01-13T15:34:58
 // Change: docs: create contributing guidelines
+
+// Updated: 2023-02-10T09:48:32
+// Change: refactor: extract common validation logic

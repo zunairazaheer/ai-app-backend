@@ -80,3 +80,6 @@ This section describes the implementation.
 
 // Updated: 2022-12-30T14:47:09
 // Change: fix: validation error in signup form
+
+// Updated: 2023-02-15T15:30:06
+// Change: refactor: consolidate database queries

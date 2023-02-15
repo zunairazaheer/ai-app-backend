@@ -85,3 +85,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-12-31T17:30:56
 // Change: docs: update changelog for v2.0
+
+// Updated: 2023-02-15T15:30:06
+// Change: refactor: consolidate database queries

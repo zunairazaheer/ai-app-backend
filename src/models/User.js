@@ -70,3 +70,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-02-12T06:50:55
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2023-02-22T12:40:27
+// Change: feat: add search functionality

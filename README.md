@@ -44,3 +44,6 @@
 
 // Updated: 2023-02-10T09:48:32
 // Change: refactor: extract common validation logic
+
+// Updated: 2023-03-01T10:58:11
+// Change: perf: lazy load images

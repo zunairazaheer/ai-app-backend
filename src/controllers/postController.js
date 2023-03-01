@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-02-18T09:50:40
 // Change: style: update color scheme
+
+// Updated: 2023-03-01T10:58:11
+// Change: perf: lazy load images

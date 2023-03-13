@@ -83,3 +83,6 @@ This section describes the implementation.
 
 // Updated: 2023-02-15T15:30:06
 // Change: refactor: consolidate database queries
+
+// Updated: 2023-03-13T09:27:34
+// Change: test: improve test coverage for auth

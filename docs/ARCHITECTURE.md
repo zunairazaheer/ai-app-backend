@@ -71,3 +71,6 @@ This section describes the implementation.
 
 // Updated: 2023-03-16T14:36:57
 // Change: feat: implement rate limiting
+
+// Updated: 2023-03-20T17:57:04
+// Change: refactor: improve code readability in utils

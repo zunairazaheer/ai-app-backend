@@ -61,3 +61,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-01-30T12:43:46
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2023-03-27T13:52:46
+// Change: refactor: replace deprecated API calls

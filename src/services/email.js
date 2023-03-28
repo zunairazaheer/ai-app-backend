@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-02-10T10:31:48
 // Change: perf: improve API response time
+
+// Updated: 2023-03-28T10:59:13
+// Change: docs: improve code comments in auth module

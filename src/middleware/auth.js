@@ -46,3 +46,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-02-02T15:21:54
 // Change: chore: remove unused imports and variables
+
+// Updated: 2023-03-28T10:59:13
+// Change: docs: improve code comments in auth module

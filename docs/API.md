@@ -86,3 +86,6 @@ This section describes the implementation.
 
 // Updated: 2023-03-13T09:27:34
 // Change: test: improve test coverage for auth
+
+// Updated: 2023-03-29T14:44:23
+// Change: security: patch XSS vulnerability

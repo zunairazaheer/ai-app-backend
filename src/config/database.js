@@ -52,3 +52,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-12-14T06:10:04
 // Change: fix: session timeout not working
+
+// Updated: 2023-03-30T17:05:41
+// Change: docs: update README with installation steps

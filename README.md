@@ -47,3 +47,6 @@
 
 // Updated: 2023-03-01T10:58:11
 // Change: perf: lazy load images
+
+// Updated: 2023-03-30T17:05:41
+// Change: docs: update README with installation steps

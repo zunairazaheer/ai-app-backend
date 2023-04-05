@@ -70,3 +70,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-02-01T17:21:30
 // Change: feat: add dark mode support
+
+// Updated: 2023-04-06T00:49:49
+// Change: docs: update README with installation steps

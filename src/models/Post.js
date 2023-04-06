@@ -73,3 +73,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-04-06T00:49:49
 // Change: docs: update README with installation steps
+
+// Updated: 2023-04-06T10:28:18
+// Change: docs: add architecture diagram

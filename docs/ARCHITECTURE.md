@@ -74,3 +74,6 @@ This section describes the implementation.
 
 // Updated: 2023-03-20T17:57:04
 // Change: refactor: improve code readability in utils
+
+// Updated: 2023-04-07T09:08:47
+// Change: fix: database connection pool exhaustion

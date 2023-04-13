@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-03-01T10:58:11
 // Change: perf: lazy load images
+
+// Updated: 2023-04-13T18:10:33
+// Change: fix: validation error in signup form

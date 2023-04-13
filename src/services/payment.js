@@ -49,3 +49,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-03-13T09:27:34
 // Change: test: improve test coverage for auth
+
+// Updated: 2023-04-13T18:10:33
+// Change: fix: validation error in signup form

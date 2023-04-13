@@ -85,3 +85,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-03-01T12:13:48
 // Change: style: fix linting issues
+
+// Updated: 2023-04-13T18:10:33
+// Change: fix: validation error in signup form

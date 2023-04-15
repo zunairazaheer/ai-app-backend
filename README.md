@@ -50,3 +50,6 @@
 
 // Updated: 2023-03-30T17:05:41
 // Change: docs: update README with installation steps
+
+// Updated: 2023-04-15T19:03:04
+// Change: feat: create API documentation

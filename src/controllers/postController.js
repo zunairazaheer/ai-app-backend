@@ -52,3 +52,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-04-13T18:10:33
 // Change: fix: validation error in signup form
+
+// Updated: 2023-04-15T19:03:04
+// Change: feat: create API documentation

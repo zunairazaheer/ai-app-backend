@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-10-31T20:50:18
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2023-04-18T16:18:45
+// Change: perf: lazy load images

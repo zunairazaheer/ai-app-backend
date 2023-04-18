@@ -55,3 +55,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-04-15T19:03:04
 // Change: feat: create API documentation
+
+// Updated: 2023-04-18T16:18:45
+// Change: perf: lazy load images

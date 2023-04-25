@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-03-30T17:05:41
 // Change: docs: update README with installation steps
+
+// Updated: 2023-04-25T15:52:43
+// Change: security: add input sanitization

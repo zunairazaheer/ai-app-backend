@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-04-06T10:28:18
 // Change: docs: add architecture diagram
+
+// Updated: 2023-04-28T15:41:19
+// Change: feat: add email verification

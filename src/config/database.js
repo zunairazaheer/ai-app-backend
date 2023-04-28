@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-04-13T14:57:43
 // Change: perf: optimize database queries
+
+// Updated: 2023-04-28T15:41:19
+// Change: feat: add email verification

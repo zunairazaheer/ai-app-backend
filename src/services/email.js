@@ -61,3 +61,9 @@ export default { VERSION, processData };
 
 // Updated: 2023-03-28T10:59:13
 // Change: docs: improve code comments in auth module
+
+// Updated: 2023-05-11T17:40:11
+// Change: feat: create API documentation
+
+// Updated: 2023-05-11T17:40:11
+// Change: feat: create API documentation

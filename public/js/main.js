@@ -61,3 +61,6 @@ export default { VERSION, processData };
 
 // Updated: 2022-09-24T15:35:36
 // Change: test: add integration tests for API
+
+// Updated: 2023-05-14T14:35:01
+// Change: feat: create API documentation

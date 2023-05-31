@@ -82,3 +82,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-03-27T17:59:51
 // Change: feat: add dark mode support
+
+// Updated: 2023-05-31T09:55:42
+// Change: refactor: replace deprecated API calls

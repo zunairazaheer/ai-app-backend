@@ -73,3 +73,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-05-28T19:37:47
 // Change: docs: update changelog for v2.0
+
+// Updated: 2023-06-03T17:54:58
+// Change: chore: update .gitignore file

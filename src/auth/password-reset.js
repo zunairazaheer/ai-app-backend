@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-01-30T12:43:46
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2023-06-06T15:23:30
+// Change: perf: reduce bundle size

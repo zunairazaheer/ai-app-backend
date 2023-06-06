@@ -76,3 +76,6 @@ Random data: 11194
 
 // Updated: 2023-04-06T10:28:18
 // Change: docs: add architecture diagram
+
+// Updated: 2023-06-06T15:23:30
+// Change: perf: reduce bundle size

@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-06-03T17:54:58
 // Change: chore: update .gitignore file
+
+// Updated: 2023-06-08T11:26:28
+// Change: test: add integration tests for API

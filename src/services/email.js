@@ -67,3 +67,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-05-11T17:40:11
 // Change: feat: create API documentation
+
+// Updated: 2023-06-20T15:35:55
+// Change: docs: update README with installation steps

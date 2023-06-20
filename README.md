@@ -56,3 +56,6 @@
 
 // Updated: 2023-05-14T13:24:07
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2023-06-20T15:35:55
+// Change: docs: update README with installation steps

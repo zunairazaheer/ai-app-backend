@@ -88,3 +88,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-06-06T15:23:30
 // Change: perf: reduce bundle size
+
+// Updated: 2023-07-01T02:11:58
+// Change: fix: validation error in signup form

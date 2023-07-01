@@ -83,3 +83,6 @@ This section describes the implementation.
 
 // Updated: 2023-06-20T15:35:55
 // Change: docs: update README with installation steps
+
+// Updated: 2023-07-02T00:25:34
+// Change: test: fix flaky test in user service

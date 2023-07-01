@@ -64,3 +64,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-05-14T14:35:01
 // Change: feat: create API documentation
+
+// Updated: 2023-07-02T00:25:34
+// Change: test: fix flaky test in user service

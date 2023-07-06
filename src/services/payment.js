@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-05-31T17:29:51
 // Change: perf: optimize database queries
+
+// Updated: 2023-07-06T13:59:39
+// Change: feat: create API documentation

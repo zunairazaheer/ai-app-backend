@@ -86,3 +86,6 @@ This section describes the implementation.
 
 // Updated: 2023-07-02T00:25:34
 // Change: test: fix flaky test in user service
+
+// Updated: 2023-07-06T13:59:39
+// Change: feat: create API documentation

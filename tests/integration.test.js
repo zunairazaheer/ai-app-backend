@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-06-24T17:37:54
 // Change: feat: create admin dashboard
+
+// Updated: 2023-07-14T11:06:14
+// Change: refactor: replace deprecated API calls

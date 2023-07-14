@@ -79,3 +79,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-04-28T15:41:19
 // Change: feat: add email verification
+
+// Updated: 2023-07-14T11:06:14
+// Change: refactor: replace deprecated API calls

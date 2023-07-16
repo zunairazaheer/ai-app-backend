@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-07-14T11:06:14
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2023-07-16T12:05:48
+// Change: docs: create contributing guidelines

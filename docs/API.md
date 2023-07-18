@@ -92,3 +92,6 @@ This section describes the implementation.
 
 // Updated: 2023-06-22T02:30:34
 // Change: fix: session timeout not working
+
+// Updated: 2023-07-19T04:13:31
+// Change: docs: update changelog for v2.0

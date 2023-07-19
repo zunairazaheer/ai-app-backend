@@ -55,3 +55,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-03-26T17:33:37
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2023-07-19T17:46:12
+// Change: perf: lazy load images

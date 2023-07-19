@@ -100,3 +100,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-05-16T13:33:35
 // Change: feat: add user authentication system
+
+// Updated: 2023-07-19T17:46:12
+// Change: perf: lazy load images

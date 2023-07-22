@@ -95,3 +95,6 @@ This section describes the implementation.
 
 // Updated: 2023-07-19T04:13:31
 // Change: docs: update changelog for v2.0
+
+// Updated: 2023-07-22T10:07:33
+// Change: chore: update dependencies to latest versions

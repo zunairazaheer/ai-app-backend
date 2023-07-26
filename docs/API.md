@@ -98,3 +98,6 @@ This section describes the implementation.
 
 // Updated: 2023-07-22T10:07:33
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2023-07-26T13:51:47
+// Change: refactor: replace deprecated API calls

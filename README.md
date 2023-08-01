@@ -62,3 +62,6 @@
 
 // Updated: 2023-07-09T12:52:09
 // Change: fix: validation error in signup form
+
+// Updated: 2023-08-01T11:31:22
+// Change: style: update color scheme

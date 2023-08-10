@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-07-18T11:24:45
 // Change: refactor: improve error handling patterns
+
+// Updated: 2023-08-10T13:13:40
+// Change: docs: add architecture diagram

@@ -88,3 +88,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-07-19T10:41:02
 // Change: test: add integration tests for API
+
+// Updated: 2023-08-21T13:43:57
+// Change: docs: add architecture diagram

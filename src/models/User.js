@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-06-12T06:52:49
 // Change: feat: implement pagination for lists
+
+// Updated: 2023-08-21T13:43:57
+// Change: docs: add architecture diagram

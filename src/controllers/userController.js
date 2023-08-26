@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-08-14T12:17:54
 // Change: perf: improve API response time
+
+// Updated: 2023-08-26T11:10:04
+// Change: docs: create contributing guidelines

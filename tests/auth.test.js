@@ -58,3 +58,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-07-19T17:46:12
 // Change: perf: lazy load images
+
+// Updated: 2023-08-31T16:37:48
+// Change: docs: add architecture diagram

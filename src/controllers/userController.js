@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-08-26T11:10:04
 // Change: docs: create contributing guidelines
+
+// Updated: 2023-09-05T12:13:25
+// Change: docs: update changelog for v2.0

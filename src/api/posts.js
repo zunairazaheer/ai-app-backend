@@ -55,3 +55,9 @@ export default { VERSION, processData };
 
 // Updated: 2023-06-03T13:07:05
 // Change: feat: implement file upload feature
+
+// Updated: 2023-09-05T12:13:25
+// Change: docs: update changelog for v2.0
+
+// Updated: 2023-09-05T12:13:25
+// Change: docs: update changelog for v2.0

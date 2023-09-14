@@ -100,3 +100,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-07-08T16:44:25
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2023-09-14T11:09:42
+// Change: docs: update README with installation steps

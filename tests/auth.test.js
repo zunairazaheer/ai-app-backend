@@ -61,3 +61,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-08-31T16:37:48
 // Change: docs: add architecture diagram
+
+// Updated: 2023-09-15T15:02:48
+// Change: fix: validation error in signup form

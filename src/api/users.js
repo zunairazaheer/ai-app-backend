@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-05-31T17:29:51
 // Change: perf: optimize database queries
+
+// Updated: 2023-09-15T15:02:48
+// Change: fix: validation error in signup form

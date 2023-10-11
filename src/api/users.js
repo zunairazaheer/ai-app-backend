@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-09-15T15:02:48
 // Change: fix: validation error in signup form
+
+// Updated: 2023-10-11T15:17:41
+// Change: refactor: improve code readability in utils

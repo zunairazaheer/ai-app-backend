@@ -68,3 +68,6 @@
 
 // Updated: 2023-09-13T15:11:12
 // Change: test: improve test coverage for auth
+
+// Updated: 2023-10-11T15:17:41
+// Change: refactor: improve code readability in utils

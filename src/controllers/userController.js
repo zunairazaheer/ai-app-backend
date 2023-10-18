@@ -97,3 +97,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-09-05T12:13:25
 // Change: docs: update changelog for v2.0
+
+// Updated: 2023-10-18T10:26:21
+// Change: test: fix flaky test in user service

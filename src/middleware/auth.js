@@ -64,3 +64,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-11-12T14:39:41
 // Change: docs: add architecture diagram
+
+// Updated: 2023-11-23T12:35:58
+// Change: security: implement CSRF protection

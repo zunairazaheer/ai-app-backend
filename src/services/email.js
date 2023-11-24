@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-11-21T22:35:59
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2023-11-24T23:20:23
+// Change: refactor: move configuration to environment variables

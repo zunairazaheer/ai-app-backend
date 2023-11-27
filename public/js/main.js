@@ -67,3 +67,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-07-02T00:25:34
 // Change: test: fix flaky test in user service
+
+// Updated: 2023-11-27T11:55:06
+// Change: fix: validation error in signup form

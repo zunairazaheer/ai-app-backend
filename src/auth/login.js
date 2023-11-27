@@ -103,3 +103,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-09-14T11:09:42
 // Change: docs: update README with installation steps
+
+// Updated: 2023-11-27T11:55:06
+// Change: fix: validation error in signup form

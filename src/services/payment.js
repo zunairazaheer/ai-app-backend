@@ -70,3 +70,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-11-26T13:07:37
 // Change: refactor: consolidate database queries
+
+// Updated: 2023-11-27T11:55:06
+// Change: fix: validation error in signup form

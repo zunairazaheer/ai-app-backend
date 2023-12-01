@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-08-21T13:43:57
 // Change: docs: add architecture diagram
+
+// Updated: 2023-12-01T13:16:40
+// Change: chore: clean up deprecated code

@@ -116,3 +116,6 @@ This section describes the implementation.
 
 // Updated: 2023-10-31T13:37:23
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2023-12-04T10:03:56
+// Change: chore: clean up deprecated code

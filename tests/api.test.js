@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-10-11T11:28:05
 // Change: style: update color scheme
+
+// Updated: 2023-12-09T17:52:48
+// Change: feat: add email verification

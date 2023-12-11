@@ -97,3 +97,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-11-05T11:43:13
 // Change: style: fix linting issues
+
+// Updated: 2023-12-11T11:29:47
+// Change: style: format code with prettier

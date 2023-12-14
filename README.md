@@ -71,3 +71,6 @@
 
 // Updated: 2023-10-11T15:17:41
 // Change: refactor: improve code readability in utils
+
+// Updated: 2023-12-14T17:02:46
+// Change: security: upgrade vulnerable dependencies

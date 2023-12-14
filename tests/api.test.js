@@ -97,3 +97,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-12-09T17:52:48
 // Change: feat: add email verification
+
+// Updated: 2023-12-14T17:02:46
+// Change: security: upgrade vulnerable dependencies

@@ -79,3 +79,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-12-14T13:51:33
 // Change: chore: remove unused imports and variables
+
+// Updated: 2023-12-16T12:33:50
+// Change: refactor: improve code readability in utils

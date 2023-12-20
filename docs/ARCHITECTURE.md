@@ -89,3 +89,6 @@ This section describes the implementation.
 
 // Updated: 2023-07-06T13:59:39
 // Change: feat: create API documentation
+
+// Updated: 2023-12-20T05:12:40
+// Change: chore: upgrade Node.js version

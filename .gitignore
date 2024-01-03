@@ -91,3 +91,6 @@ Random data: 11194
 
 // Updated: 2023-12-18T18:46:43
 // Change: fix: validation error in signup form
+
+// Updated: 2024-01-03T08:22:34
+// Change: refactor: replace deprecated API calls

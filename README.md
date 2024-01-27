@@ -74,3 +74,6 @@
 
 // Updated: 2023-12-14T17:02:46
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2024-01-27T09:44:04
+// Change: test: fix flaky test in user service

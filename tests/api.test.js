@@ -106,3 +106,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-01-27T09:44:04
 // Change: test: fix flaky test in user service
+
+// Updated: 2024-01-28T18:12:57
+// Change: fix: resolve null pointer exception in user service

@@ -103,3 +103,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-01-03T08:22:34
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2024-01-28T18:12:57
+// Change: fix: resolve null pointer exception in user service

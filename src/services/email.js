@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-11-24T23:20:23
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2024-02-09T18:04:31
+// Change: docs: update changelog for v2.0

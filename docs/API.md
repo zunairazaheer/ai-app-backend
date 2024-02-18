@@ -122,3 +122,6 @@ This section describes the implementation.
 
 // Updated: 2023-12-08T07:49:48
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2024-02-18T11:40:03
+// Change: docs: improve code comments in auth module

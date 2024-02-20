@@ -82,3 +82,6 @@ export default { VERSION, processData };
 
 // Updated: 2023-12-16T12:33:50
 // Change: refactor: improve code readability in utils
+
+// Updated: 2024-02-20T15:11:18
+// Change: fix: correct timezone handling in scheduler

@@ -100,3 +100,6 @@ Random data: 3873
 
 // Updated: 2023-11-10T17:55:21
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2024-03-04T10:07:27
+// Change: refactor: improve code readability in utils

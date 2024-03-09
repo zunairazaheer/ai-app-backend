@@ -109,3 +109,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-01-05T18:46:01
 // Change: test: improve test coverage for auth
+
+// Updated: 2024-03-09T09:46:03
+// Change: fix: memory leak in background worker

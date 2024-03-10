@@ -100,3 +100,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-02-13T19:09:17
 // Change: style: improve UI consistency
+
+// Updated: 2024-03-11T01:47:05
+// Change: fix: memory leak in background worker

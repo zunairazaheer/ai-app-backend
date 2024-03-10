@@ -97,3 +97,6 @@ Random data: 11194
 
 // Updated: 2024-02-08T11:15:05
 // Change: feat: implement pagination for lists
+
+// Updated: 2024-03-11T01:47:05
+// Change: fix: memory leak in background worker

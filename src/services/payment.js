@@ -88,3 +88,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-03-11T01:47:05
 // Change: fix: memory leak in background worker
+
+// Updated: 2024-03-13T12:45:30
+// Change: perf: lazy load images

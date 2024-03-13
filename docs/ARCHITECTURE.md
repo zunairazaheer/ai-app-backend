@@ -92,3 +92,6 @@ This section describes the implementation.
 
 // Updated: 2023-12-20T05:12:40
 // Change: chore: upgrade Node.js version
+
+// Updated: 2024-03-13T12:45:30
+// Change: perf: lazy load images

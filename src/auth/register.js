@@ -142,3 +142,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-03-04T10:07:27
 // Change: refactor: improve code readability in utils
+
+// Updated: 2024-03-14T10:31:16
+// Change: perf: lazy load images

@@ -125,3 +125,6 @@ This section describes the implementation.
 
 // Updated: 2024-02-18T11:40:03
 // Change: docs: improve code comments in auth module
+
+// Updated: 2024-03-17T21:40:05
+// Change: refactor: simplify authentication flow

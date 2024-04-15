@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-04-08T10:09:35
 // Change: chore: upgrade Node.js version
+
+// Updated: 2024-04-15T15:42:39
+// Change: perf: reduce bundle size

@@ -95,3 +95,6 @@ This section describes the implementation.
 
 // Updated: 2024-03-13T12:45:30
 // Change: perf: lazy load images
+
+// Updated: 2024-04-15T15:42:39
+// Change: perf: reduce bundle size

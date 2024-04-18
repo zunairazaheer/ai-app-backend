@@ -106,3 +106,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-03-21T21:50:30
 // Change: test: improve test coverage for auth
+
+// Updated: 2024-04-18T17:52:32
+// Change: fix: database connection pool exhaustion

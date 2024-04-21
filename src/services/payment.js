@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-03-26T13:51:44
 // Change: test: add integration tests for API
+
+// Updated: 2024-04-21T16:55:59
+// Change: refactor: replace deprecated API calls

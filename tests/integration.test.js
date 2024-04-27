@@ -127,3 +127,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-02-17T04:07:23
 // Change: test: improve test coverage for auth
+
+// Updated: 2024-04-27T15:11:58
+// Change: fix: resolve null pointer exception in user service

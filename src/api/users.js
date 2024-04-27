@@ -112,3 +112,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-03-25T11:38:03
 // Change: fix: broken link in navigation menu
+
+// Updated: 2024-04-27T15:11:58
+// Change: fix: resolve null pointer exception in user service

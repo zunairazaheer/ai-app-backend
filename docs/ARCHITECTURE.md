@@ -101,3 +101,6 @@ This section describes the implementation.
 
 // Updated: 2024-04-29T18:58:00
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2024-05-02T12:09:39
+// Change: refactor: move configuration to environment variables

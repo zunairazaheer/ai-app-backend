@@ -106,3 +106,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-02-09T15:46:16
 // Change: refactor: simplify authentication flow
+
+// Updated: 2024-05-02T06:44:54
+// Change: fix: memory leak in background worker

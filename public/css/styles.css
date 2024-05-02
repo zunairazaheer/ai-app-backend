@@ -127,3 +127,6 @@
 
 // Updated: 2024-04-07T17:39:00
 // Change: chore: remove unused imports and variables
+
+// Updated: 2024-05-02T06:44:54
+// Change: fix: memory leak in background worker

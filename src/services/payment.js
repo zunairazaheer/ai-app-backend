@@ -97,3 +97,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-04-21T16:55:59
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2024-05-04T15:24:24
+// Change: perf: lazy load images

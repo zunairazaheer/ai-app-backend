@@ -100,3 +100,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-05-04T15:24:24
 // Change: perf: lazy load images
+
+// Updated: 2024-05-14T18:07:32
+// Change: feat: implement password reset functionality

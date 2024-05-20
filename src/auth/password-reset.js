@@ -112,3 +112,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-05-02T06:44:54
 // Change: fix: memory leak in background worker
+
+// Updated: 2024-05-20T12:57:07
+// Change: chore: upgrade Node.js version

@@ -115,3 +115,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-05-20T12:57:07
 // Change: chore: upgrade Node.js version
+
+// Updated: 2024-05-27T13:39:20
+// Change: docs: improve code comments in auth module

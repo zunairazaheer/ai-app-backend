@@ -95,3 +95,6 @@
 
 // Updated: 2024-05-24T14:10:27
 // Change: security: add input sanitization
+
+// Updated: 2024-05-27T13:39:20
+// Change: docs: improve code comments in auth module

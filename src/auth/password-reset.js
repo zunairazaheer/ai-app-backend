@@ -118,3 +118,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-05-27T13:39:20
 // Change: docs: improve code comments in auth module
+
+// Updated: 2024-05-29T16:00:38
+// Change: fix: correct timezone handling in scheduler

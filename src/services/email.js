@@ -106,3 +106,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-05-18T20:12:27
 // Change: fix: memory leak in background worker
+
+// Updated: 2024-05-29T16:00:38
+// Change: fix: correct timezone handling in scheduler

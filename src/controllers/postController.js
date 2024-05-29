@@ -79,3 +79,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-04-15T15:42:39
 // Change: perf: reduce bundle size
+
+// Updated: 2024-05-29T10:33:03
+// Change: refactor: replace deprecated API calls

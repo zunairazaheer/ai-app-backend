@@ -107,3 +107,6 @@ This section describes the implementation.
 
 // Updated: 2024-05-10T16:02:58
 // Change: chore: clean up deprecated code
+
+// Updated: 2024-06-04T22:27:27
+// Change: perf: reduce bundle size

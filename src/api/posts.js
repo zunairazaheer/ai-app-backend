@@ -76,3 +76,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-02-21T15:19:02
 // Change: perf: improve API response time
+
+// Updated: 2024-06-07T00:23:49
+// Change: feat: create API documentation

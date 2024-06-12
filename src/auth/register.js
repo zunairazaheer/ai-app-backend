@@ -154,3 +154,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-05-27T13:39:20
 // Change: docs: improve code comments in auth module
+
+// Updated: 2024-06-12T10:10:35
+// Change: docs: add architecture diagram

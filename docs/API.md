@@ -137,3 +137,6 @@ This section describes the implementation.
 
 // Updated: 2024-05-28T11:07:46
 // Change: feat: create admin dashboard
+
+// Updated: 2024-06-21T19:32:40
+// Change: perf: optimize database queries

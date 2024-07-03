@@ -163,3 +163,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-06-29T17:05:39
 // Change: fix: correct timezone handling in scheduler
+
+// Updated: 2024-07-03T17:55:45
+// Change: fix: CSS styling issue on mobile devices

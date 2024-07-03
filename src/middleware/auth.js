@@ -88,3 +88,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-06-27T15:02:53
 // Change: style: format code with prettier
+
+// Updated: 2024-07-03T12:50:18
+// Change: docs: update changelog for v2.0

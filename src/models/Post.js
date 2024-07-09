@@ -118,3 +118,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-06-12T09:20:10
 // Change: feat: create admin dashboard
+
+// Updated: 2024-07-09T14:25:16
+// Change: refactor: move configuration to environment variables

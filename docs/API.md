@@ -143,3 +143,6 @@ This section describes the implementation.
 
 // Updated: 2024-07-01T15:24:18
 // Change: feat: implement rate limiting
+
+// Updated: 2024-07-15T10:54:17
+// Change: refactor: move configuration to environment variables

@@ -124,3 +124,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-06-18T10:40:26
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2024-07-15T10:54:17
+// Change: refactor: move configuration to environment variables

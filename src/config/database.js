@@ -106,3 +106,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-08-02T16:46:05
 // Change: refactor: improve error handling patterns
+
+// Updated: 2024-08-04T14:34:40
+// Change: refactor: move configuration to environment variables

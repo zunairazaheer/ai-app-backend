@@ -113,3 +113,6 @@ This section describes the implementation.
 
 // Updated: 2024-07-03T12:50:18
 // Change: docs: update changelog for v2.0
+
+// Updated: 2024-08-11T15:44:05
+// Change: style: improve UI consistency

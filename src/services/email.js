@@ -121,3 +121,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-07-14T18:17:56
 // Change: refactor: optimize database indexes
+
+// Updated: 2024-08-14T15:57:16
+// Change: refactor: simplify authentication flow

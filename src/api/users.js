@@ -118,3 +118,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-06-28T16:14:33
 // Change: style: improve UI consistency
+
+// Updated: 2024-08-25T16:17:40
+// Change: docs: create contributing guidelines

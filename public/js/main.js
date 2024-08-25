@@ -94,3 +94,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-08-14T15:57:16
 // Change: refactor: simplify authentication flow
+
+// Updated: 2024-08-25T16:17:40
+// Change: docs: create contributing guidelines

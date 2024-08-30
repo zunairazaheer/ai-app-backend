@@ -142,3 +142,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-08-25T16:17:40
 // Change: docs: create contributing guidelines
+
+// Updated: 2024-08-31T00:00:07
+// Change: docs: update README with installation steps

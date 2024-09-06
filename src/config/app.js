@@ -127,3 +127,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-08-04T14:34:40
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2024-09-06T09:36:45
+// Change: fix: resolve null pointer exception in user service

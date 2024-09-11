@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-07-03T12:50:18
 // Change: docs: update changelog for v2.0
+
+// Updated: 2024-09-11T16:06:56
+// Change: chore: clean up deprecated code

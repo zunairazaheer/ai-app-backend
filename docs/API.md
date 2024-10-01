@@ -146,3 +146,6 @@ This section describes the implementation.
 
 // Updated: 2024-07-15T10:54:17
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2024-10-01T09:19:36
+// Change: refactor: improve code readability in utils

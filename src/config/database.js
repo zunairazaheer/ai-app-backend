@@ -118,3 +118,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-09-13T11:12:35
 // Change: security: implement CSRF protection
+
+// Updated: 2024-10-02T14:30:14
+// Change: docs: add API endpoint documentation

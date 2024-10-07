@@ -91,3 +91,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-09-08T04:17:09
 // Change: refactor: improve code readability in utils
+
+// Updated: 2024-10-07T17:24:56
+// Change: fix: broken link in navigation menu

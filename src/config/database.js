@@ -121,3 +121,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-10-02T14:30:14
 // Change: docs: add API endpoint documentation
+
+// Updated: 2024-11-01T18:06:40
+// Change: docs: update changelog for v2.0

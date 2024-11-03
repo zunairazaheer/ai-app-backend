@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-10-23T09:21:14
 // Change: feat: implement rate limiting
+
+// Updated: 2024-11-03T23:27:46
+// Change: docs: update README with installation steps

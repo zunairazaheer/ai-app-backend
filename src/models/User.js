@@ -136,3 +136,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-11-11T11:03:02
 // Change: style: fix linting issues
+
+// Updated: 2024-11-15T15:48:28
+// Change: refactor: replace deprecated API calls

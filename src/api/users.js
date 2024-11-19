@@ -127,3 +127,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-10-12T12:14:18
 // Change: feat: create admin dashboard
+
+// Updated: 2024-11-19T11:07:18
+// Change: fix: correct timezone handling in scheduler

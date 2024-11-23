@@ -121,3 +121,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-11-15T14:21:24
 // Change: feat: implement file upload feature
+
+// Updated: 2024-11-23T10:09:54
+// Change: refactor: replace deprecated API calls

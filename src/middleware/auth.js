@@ -100,3 +100,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-07T10:04:50
 // Change: docs: update changelog for v2.0
+
+// Updated: 2024-12-07T13:45:43
+// Change: refactor: improve code readability in utils

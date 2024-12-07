@@ -127,3 +127,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-11-27T19:00:25
 // Change: chore: configure CI/CD pipeline
+
+// Updated: 2024-12-07T10:04:50
+// Change: docs: update changelog for v2.0

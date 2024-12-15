@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-07T10:04:50
 // Change: docs: update changelog for v2.0
+
+// Updated: 2024-12-15T18:59:09
+// Change: fix: database connection pool exhaustion

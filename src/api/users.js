@@ -133,3 +133,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-04T23:44:39
 // Change: fix: race condition in payment processing
+
+// Updated: 2024-12-16T11:25:56
+// Change: fix: broken link in navigation menu

@@ -103,3 +103,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-22T04:59:33
 // Change: style: update color scheme
+
+// Updated: 2024-12-30T09:32:03
+// Change: fix: memory leak in background worker

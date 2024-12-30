@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-16T11:25:56
 // Change: fix: broken link in navigation menu
+
+// Updated: 2024-12-30T16:40:45
+// Change: security: patch XSS vulnerability

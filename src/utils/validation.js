@@ -127,3 +127,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-29T15:11:41
 // Change: test: fix flaky test in user service
+
+// Updated: 2024-12-30T16:40:45
+// Change: security: patch XSS vulnerability

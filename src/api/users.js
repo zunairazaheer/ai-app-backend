@@ -139,3 +139,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-30T09:32:03
 // Change: fix: memory leak in background worker
+
+// Updated: 2024-12-31T15:14:17
+// Change: refactor: improve code readability in utils

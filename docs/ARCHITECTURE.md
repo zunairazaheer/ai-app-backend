@@ -122,3 +122,6 @@ This section describes the implementation.
 
 // Updated: 2024-12-29T15:11:41
 // Change: test: fix flaky test in user service
+
+// Updated: 2025-01-13T15:57:40
+// Change: refactor: move configuration to environment variables

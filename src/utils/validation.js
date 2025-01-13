@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2024-12-30T16:40:45
 // Change: security: patch XSS vulnerability
+
+// Updated: 2025-01-13T15:57:40
+// Change: refactor: move configuration to environment variables

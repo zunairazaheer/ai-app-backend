@@ -133,3 +133,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-01-13T15:57:40
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2025-01-16T13:00:44
+// Change: fix: broken link in navigation menu

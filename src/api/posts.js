@@ -97,3 +97,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-01-13T15:57:40
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2025-01-18T13:57:14
+// Change: refactor: replace deprecated API calls

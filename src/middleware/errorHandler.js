@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-01-11T07:29:44
 // Change: perf: optimize database queries
+
+// Updated: 2025-01-29T14:47:24
+// Change: fix: correct timezone handling in scheduler

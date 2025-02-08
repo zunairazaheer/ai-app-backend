@@ -118,3 +118,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-01-24T13:54:17
 // Change: test: fix flaky test in user service
+
+// Updated: 2025-02-08T12:01:36
+// Change: test: improve test coverage for auth

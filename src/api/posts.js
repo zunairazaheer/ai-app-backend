@@ -103,3 +103,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-01-24T09:17:34
 // Change: docs: update README with installation steps
+
+// Updated: 2025-02-17T09:57:26
+// Change: security: patch XSS vulnerability

@@ -115,3 +115,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-01-19T10:15:22
 // Change: refactor: consolidate database queries
+
+// Updated: 2025-02-17T09:57:26
+// Change: security: patch XSS vulnerability

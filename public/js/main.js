@@ -121,3 +121,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-02-08T12:01:36
 // Change: test: improve test coverage for auth
+
+// Updated: 2025-02-21T14:44:58
+// Change: perf: lazy load images

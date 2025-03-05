@@ -145,3 +145,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-03-05T10:57:24
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2025-03-05T14:56:24
+// Change: docs: add API endpoint documentation

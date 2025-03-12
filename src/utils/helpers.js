@@ -139,3 +139,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-03-03T18:53:57
 // Change: refactor: improve code readability in utils
+
+// Updated: 2025-03-12T07:07:08
+// Change: fix: resolve null pointer exception in user service

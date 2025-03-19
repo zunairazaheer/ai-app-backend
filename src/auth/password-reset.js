@@ -148,3 +148,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-03-05T14:56:24
 // Change: docs: add API endpoint documentation
+
+// Updated: 2025-03-19T11:14:40
+// Change: fix: broken link in navigation menu

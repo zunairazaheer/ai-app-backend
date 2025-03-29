@@ -128,3 +128,6 @@ This section describes the implementation.
 
 // Updated: 2025-03-08T09:21:44
 // Change: style: fix linting issues
+
+// Updated: 2025-03-29T15:49:22
+// Change: feat: implement password reset functionality

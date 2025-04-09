@@ -131,3 +131,6 @@ This section describes the implementation.
 
 // Updated: 2025-03-29T15:49:22
 // Change: feat: implement password reset functionality
+
+// Updated: 2025-04-09T09:45:57
+// Change: security: patch XSS vulnerability

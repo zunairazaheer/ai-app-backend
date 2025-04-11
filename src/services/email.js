@@ -145,3 +145,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-02-26T09:22:25
 // Change: security: implement CSRF protection
+
+// Updated: 2025-04-11T21:18:04
+// Change: chore: clean up deprecated code

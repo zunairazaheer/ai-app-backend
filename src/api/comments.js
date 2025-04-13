@@ -151,3 +151,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-03-28T15:57:52
 // Change: test: add unit tests for payment module
+
+// Updated: 2025-04-13T11:02:34
+// Change: refactor: replace deprecated API calls

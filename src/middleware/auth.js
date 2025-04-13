@@ -124,3 +124,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-03-06T04:02:44
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2025-04-13T11:02:34
+// Change: refactor: replace deprecated API calls

@@ -134,3 +134,6 @@ This section describes the implementation.
 
 // Updated: 2025-04-09T09:45:57
 // Change: security: patch XSS vulnerability
+
+// Updated: 2025-04-18T18:04:48
+// Change: style: format code with prettier

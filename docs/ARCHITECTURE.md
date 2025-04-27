@@ -137,3 +137,6 @@ This section describes the implementation.
 
 // Updated: 2025-04-18T18:04:48
 // Change: style: format code with prettier
+
+// Updated: 2025-04-27T14:58:59
+// Change: docs: add API endpoint documentation

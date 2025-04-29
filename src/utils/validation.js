@@ -151,3 +151,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-04-11T17:27:30
 // Change: feat: implement pagination for lists
+
+// Updated: 2025-04-29T11:12:33
+// Change: docs: add API endpoint documentation

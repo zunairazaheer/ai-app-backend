@@ -136,3 +136,6 @@ Random data: 11194
 
 // Updated: 2025-02-21T10:16:28
 // Change: refactor: improve error handling patterns
+
+// Updated: 2025-04-30T14:42:16
+// Change: test: add integration tests for API

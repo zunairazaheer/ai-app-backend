@@ -181,3 +181,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-04-08T13:54:22
 // Change: test: fix flaky test in user service
+
+// Updated: 2025-04-30T14:42:16
+// Change: test: add integration tests for API

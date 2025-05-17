@@ -148,3 +148,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-04-11T21:18:04
 // Change: chore: clean up deprecated code
+
+// Updated: 2025-05-17T12:29:47
+// Change: docs: improve code comments in auth module

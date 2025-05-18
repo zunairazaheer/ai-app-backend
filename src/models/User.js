@@ -160,3 +160,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-07T17:40:43
 // Change: perf: optimize database queries
+
+// Updated: 2025-05-18T18:16:17
+// Change: docs: add architecture diagram

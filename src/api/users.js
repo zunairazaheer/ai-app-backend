@@ -163,3 +163,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-05T11:39:52
 // Change: chore: update dependencies to latest versions
+
+// Updated: 2025-05-18T18:16:17
+// Change: docs: add architecture diagram

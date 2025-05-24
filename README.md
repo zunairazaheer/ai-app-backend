@@ -131,3 +131,6 @@
 
 // Updated: 2025-05-20T10:03:06
 // Change: chore: update .gitignore file
+
+// Updated: 2025-05-24T18:21:19
+// Change: feat: add email verification

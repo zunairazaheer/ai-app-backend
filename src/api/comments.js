@@ -163,3 +163,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-23T11:21:39
 // Change: fix: race condition in payment processing
+
+// Updated: 2025-05-24T18:21:19
+// Change: feat: add email verification

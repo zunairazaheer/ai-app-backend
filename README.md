@@ -134,3 +134,6 @@
 
 // Updated: 2025-05-24T18:21:19
 // Change: feat: add email verification
+
+// Updated: 2025-06-01T13:46:25
+// Change: style: update color scheme

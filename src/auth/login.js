@@ -145,3 +145,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-24T18:21:19
 // Change: feat: add email verification
+
+// Updated: 2025-06-06T10:00:38
+// Change: fix: validation error in signup form

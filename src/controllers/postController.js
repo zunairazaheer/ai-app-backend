@@ -127,3 +127,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-27T13:47:35
 // Change: refactor: optimize database indexes
+
+// Updated: 2025-06-07T10:25:23
+// Change: fix: broken link in navigation menu

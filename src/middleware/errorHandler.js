@@ -148,3 +148,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-28T17:49:57
 // Change: chore: remove unused imports and variables
+
+// Updated: 2025-06-07T10:25:23
+// Change: fix: broken link in navigation menu

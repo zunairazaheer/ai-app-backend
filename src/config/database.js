@@ -160,3 +160,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-04-22T13:23:03
 // Change: refactor: consolidate database queries
+
+// Updated: 2025-06-14T17:03:38
+// Change: style: improve UI consistency

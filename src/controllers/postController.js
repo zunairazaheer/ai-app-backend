@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-06-07T10:25:23
 // Change: fix: broken link in navigation menu
+
+// Updated: 2025-06-14T17:03:38
+// Change: style: improve UI consistency

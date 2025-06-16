@@ -211,3 +211,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-06-12T12:03:55
 // Change: chore: configure CI/CD pipeline
+
+// Updated: 2025-06-16T13:16:48
+// Change: fix: broken link in navigation menu

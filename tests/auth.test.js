@@ -127,3 +127,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-04-24T21:40:27
 // Change: refactor: improve code readability in utils
+
+// Updated: 2025-06-27T11:53:25
+// Change: chore: upgrade Node.js version

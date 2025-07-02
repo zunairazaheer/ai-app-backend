@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-06-27T11:53:25
 // Change: chore: upgrade Node.js version
+
+// Updated: 2025-07-02T16:46:08
+// Change: style: improve UI consistency

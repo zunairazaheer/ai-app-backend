@@ -163,3 +163,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-06-16T13:16:48
 // Change: fix: broken link in navigation menu
+
+// Updated: 2025-07-03T14:22:32
+// Change: refactor: replace deprecated API calls

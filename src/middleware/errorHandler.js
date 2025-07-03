@@ -157,3 +157,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-06-27T11:53:25
 // Change: chore: upgrade Node.js version
+
+// Updated: 2025-07-03T14:22:32
+// Change: refactor: replace deprecated API calls

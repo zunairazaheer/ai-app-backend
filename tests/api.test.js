@@ -154,3 +154,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-22T17:32:58
 // Change: feat: add user authentication system
+
+// Updated: 2025-07-12T15:02:50
+// Change: refactor: replace deprecated API calls

@@ -143,3 +143,6 @@
 
 // Updated: 2025-06-16T13:16:48
 // Change: fix: broken link in navigation menu
+
+// Updated: 2025-07-12T15:02:50
+// Change: refactor: replace deprecated API calls

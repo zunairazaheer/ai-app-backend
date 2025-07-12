@@ -166,3 +166,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-12T00:50:20
 // Change: fix: session timeout not working
+
+// Updated: 2025-07-12T15:02:50
+// Change: refactor: replace deprecated API calls

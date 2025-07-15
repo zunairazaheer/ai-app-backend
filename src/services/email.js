@@ -154,3 +154,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-19T17:26:51
 // Change: feat: implement rate limiting
+
+// Updated: 2025-07-15T16:36:00
+// Change: refactor: move configuration to environment variables

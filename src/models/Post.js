@@ -142,3 +142,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-20T10:03:06
 // Change: chore: update .gitignore file
+
+// Updated: 2025-07-15T16:36:00
+// Change: refactor: move configuration to environment variables

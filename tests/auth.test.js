@@ -133,3 +133,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-02T16:46:08
 // Change: style: improve UI consistency
+
+// Updated: 2025-07-15T16:36:00
+// Change: refactor: move configuration to environment variables

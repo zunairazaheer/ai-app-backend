@@ -149,3 +149,6 @@ This section describes the implementation.
 
 // Updated: 2025-07-13T10:17:07
 // Change: style: improve UI consistency
+
+// Updated: 2025-07-16T04:58:44
+// Change: perf: lazy load images

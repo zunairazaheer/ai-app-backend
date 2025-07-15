@@ -139,3 +139,6 @@ Random data: 11194
 
 // Updated: 2025-04-30T14:42:16
 // Change: test: add integration tests for API
+
+// Updated: 2025-07-16T04:58:44
+// Change: perf: lazy load images

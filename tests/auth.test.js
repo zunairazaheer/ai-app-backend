@@ -136,3 +136,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-15T16:36:00
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2025-07-17T12:19:04
+// Change: security: implement CSRF protection

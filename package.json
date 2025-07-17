@@ -160,3 +160,6 @@ Random data: 3873
 
 // Updated: 2025-07-08T03:19:59
 // Change: chore: upgrade Node.js version
+
+// Updated: 2025-07-17T12:19:04
+// Change: security: implement CSRF protection

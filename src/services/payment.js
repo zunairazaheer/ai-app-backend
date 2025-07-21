@@ -154,3 +154,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-21T11:03:12
 // Change: refactor: improve code readability in utils
+
+// Updated: 2025-07-22T01:15:52
+// Change: style: update color scheme

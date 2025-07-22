@@ -170,3 +170,6 @@ This section describes the implementation.
 
 // Updated: 2025-03-28T15:57:52
 // Change: test: add unit tests for payment module
+
+// Updated: 2025-07-22T10:45:12
+// Change: docs: add architecture diagram

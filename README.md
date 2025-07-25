@@ -146,3 +146,6 @@
 
 // Updated: 2025-07-12T15:02:50
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2025-07-25T13:49:44
+// Change: refactor: consolidate database queries

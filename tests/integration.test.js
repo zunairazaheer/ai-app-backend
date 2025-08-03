@@ -184,3 +184,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-04-30T14:42:16
 // Change: test: add integration tests for API
+
+// Updated: 2025-08-03T11:30:58
+// Change: feat: implement password reset functionality

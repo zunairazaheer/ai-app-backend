@@ -145,3 +145,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-15T16:36:00
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2025-08-04T09:17:44
+// Change: perf: lazy load images

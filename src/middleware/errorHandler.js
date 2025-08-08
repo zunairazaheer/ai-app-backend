@@ -163,3 +163,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-08-03T11:30:58
 // Change: feat: implement password reset functionality
+
+// Updated: 2025-08-08T16:33:04
+// Change: test: improve test coverage for auth

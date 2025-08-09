@@ -157,3 +157,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-12T15:02:50
 // Change: refactor: replace deprecated API calls
+
+// Updated: 2025-08-09T14:52:26
+// Change: fix: memory leak in background worker

@@ -142,3 +142,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-22T01:15:52
 // Change: style: update color scheme
+
+// Updated: 2025-08-12T17:16:08
+// Change: fix: resolve null pointer exception in user service

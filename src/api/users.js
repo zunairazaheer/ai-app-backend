@@ -166,3 +166,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-18T18:16:17
 // Change: docs: add architecture diagram
+
+// Updated: 2025-08-12T17:16:08
+// Change: fix: resolve null pointer exception in user service

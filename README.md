@@ -149,3 +149,6 @@
 
 // Updated: 2025-07-25T13:49:44
 // Change: refactor: consolidate database queries
+
+// Updated: 2025-08-16T15:42:48
+// Change: docs: improve code comments in auth module

@@ -169,3 +169,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-08-12T17:16:08
 // Change: fix: resolve null pointer exception in user service
+
+// Updated: 2025-08-16T15:42:48
+// Change: docs: improve code comments in auth module

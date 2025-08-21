@@ -152,3 +152,6 @@ This section describes the implementation.
 
 // Updated: 2025-07-16T04:58:44
 // Change: perf: lazy load images
+
+// Updated: 2025-08-21T13:43:08
+// Change: feat: implement password reset functionality

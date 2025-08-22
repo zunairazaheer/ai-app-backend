@@ -172,3 +172,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-08-16T15:42:48
 // Change: docs: improve code comments in auth module
+
+// Updated: 2025-08-22T12:49:01
+// Change: fix: broken link in navigation menu

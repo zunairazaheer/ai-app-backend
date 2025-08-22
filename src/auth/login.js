@@ -148,3 +148,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-06-06T10:00:38
 // Change: fix: validation error in signup form
+
+// Updated: 2025-08-22T12:49:01
+// Change: fix: broken link in navigation menu

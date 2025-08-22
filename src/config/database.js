@@ -178,3 +178,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-08-21T13:43:08
 // Change: feat: implement password reset functionality
+
+// Updated: 2025-08-22T12:57:44
+// Change: refactor: simplify authentication flow

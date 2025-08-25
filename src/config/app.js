@@ -169,3 +169,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-08T09:44:34
 // Change: feat: add email verification
+
+// Updated: 2025-08-25T11:01:18
+// Change: test: fix flaky test in user service

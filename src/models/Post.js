@@ -151,3 +151,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-08-15T09:33:11
 // Change: feat: create admin dashboard
+
+// Updated: 2025-08-25T10:02:47
+// Change: style: format code with prettier

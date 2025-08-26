@@ -163,3 +163,6 @@ Random data: 3873
 
 // Updated: 2025-07-17T12:19:04
 // Change: security: implement CSRF protection
+
+// Updated: 2025-08-26T15:56:48
+// Change: fix: correct timezone handling in scheduler

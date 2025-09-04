@@ -158,3 +158,6 @@ This section describes the implementation.
 
 // Updated: 2025-09-02T17:02:12
 // Change: feat: implement pagination for lists
+
+// Updated: 2025-09-04T15:52:48
+// Change: feat: add dark mode support

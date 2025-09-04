@@ -130,3 +130,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-08-25T10:02:47
 // Change: style: format code with prettier
+
+// Updated: 2025-09-04T15:52:48
+// Change: feat: add dark mode support

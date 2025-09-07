@@ -176,3 +176,6 @@ This section describes the implementation.
 
 // Updated: 2025-08-08T16:33:04
 // Change: test: improve test coverage for auth
+
+// Updated: 2025-09-07T10:52:06
+// Change: feat: implement pagination for lists

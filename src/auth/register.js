@@ -229,3 +229,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-07T13:31:27
 // Change: feat: add dark mode support
+
+// Updated: 2025-09-16T16:35:37
+// Change: docs: create contributing guidelines

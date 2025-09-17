@@ -179,3 +179,6 @@ This section describes the implementation.
 
 // Updated: 2025-09-07T10:52:06
 // Change: feat: implement pagination for lists
+
+// Updated: 2025-09-17T09:53:09
+// Change: fix: database connection pool exhaustion

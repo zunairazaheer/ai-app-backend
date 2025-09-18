@@ -172,3 +172,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-16T18:34:14
 // Change: style: update color scheme
+
+// Updated: 2025-09-18T17:30:01
+// Change: fix: broken link in navigation menu

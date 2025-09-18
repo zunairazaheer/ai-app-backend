@@ -166,3 +166,6 @@ Random data: 3873
 
 // Updated: 2025-08-26T15:56:48
 // Change: fix: correct timezone handling in scheduler
+
+// Updated: 2025-09-18T17:30:01
+// Change: fix: broken link in navigation menu

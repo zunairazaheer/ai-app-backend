@@ -157,3 +157,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-07-15T16:36:00
 // Change: refactor: move configuration to environment variables
+
+// Updated: 2025-09-19T14:21:41
+// Change: docs: create contributing guidelines

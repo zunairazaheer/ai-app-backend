@@ -181,3 +181,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-16T14:16:23
 // Change: feat: add search functionality
+
+// Updated: 2025-09-28T14:47:43
+// Change: docs: update changelog for v2.0

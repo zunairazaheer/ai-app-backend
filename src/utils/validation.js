@@ -160,3 +160,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-16T11:44:36
 // Change: test: fix flaky test in user service
+
+// Updated: 2025-09-29T03:52:48
+// Change: docs: update changelog for v2.0

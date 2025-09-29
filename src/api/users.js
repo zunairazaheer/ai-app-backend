@@ -178,3 +178,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-26T12:35:39
 // Change: fix: incorrect calculation in analytics
+
+// Updated: 2025-09-29T15:43:45
+// Change: docs: add architecture diagram

@@ -178,3 +178,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-29T03:52:48
 // Change: docs: update changelog for v2.0
+
+// Updated: 2025-10-06T15:40:11
+// Change: security: patch XSS vulnerability

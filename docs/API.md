@@ -182,3 +182,6 @@ This section describes the implementation.
 
 // Updated: 2025-09-17T09:53:09
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2025-10-17T15:13:41
+// Change: test: improve test coverage for auth

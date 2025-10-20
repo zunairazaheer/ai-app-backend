@@ -181,3 +181,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-29T15:43:45
 // Change: docs: add architecture diagram
+
+// Updated: 2025-10-20T11:40:45
+// Change: style: format code with prettier

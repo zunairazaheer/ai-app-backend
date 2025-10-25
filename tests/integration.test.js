@@ -196,3 +196,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-19T13:44:18
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2025-10-25T21:17:10
+// Change: security: patch XSS vulnerability

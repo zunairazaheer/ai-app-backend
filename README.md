@@ -158,3 +158,6 @@
 
 // Updated: 2025-09-10T16:57:52
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2025-10-25T21:17:10
+// Change: security: patch XSS vulnerability

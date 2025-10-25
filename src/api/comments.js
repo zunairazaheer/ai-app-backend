@@ -187,3 +187,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-22T16:15:07
 // Change: feat: implement file upload feature
+
+// Updated: 2025-10-25T21:17:10
+// Change: security: patch XSS vulnerability

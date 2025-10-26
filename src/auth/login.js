@@ -160,3 +160,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-09-28T14:47:43
 // Change: docs: update changelog for v2.0
+
+// Updated: 2025-10-26T18:52:56
+// Change: test: improve test coverage for auth

@@ -151,3 +151,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-07T02:32:03
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2025-10-26T23:10:13
+// Change: docs: update changelog for v2.0

@@ -115,3 +115,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-05-28T17:49:57
 // Change: chore: remove unused imports and variables
+
+// Updated: 2025-11-10T14:07:56
+// Change: docs: add API endpoint documentation

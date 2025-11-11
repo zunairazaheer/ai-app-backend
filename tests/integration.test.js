@@ -199,3 +199,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-25T21:17:10
 // Change: security: patch XSS vulnerability
+
+// Updated: 2025-11-11T13:38:18
+// Change: fix: CSS styling issue on mobile devices

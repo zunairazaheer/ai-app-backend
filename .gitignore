@@ -160,3 +160,6 @@ Random data: 11194
 
 // Updated: 2025-11-01T13:10:11
 // Change: style: fix linting issues
+
+// Updated: 2025-11-14T03:16:39
+// Change: refactor: replace deprecated API calls

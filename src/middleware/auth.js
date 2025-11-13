@@ -151,3 +151,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-11-10T17:05:58
 // Change: perf: optimize database queries
+
+// Updated: 2025-11-14T03:16:39
+// Change: refactor: replace deprecated API calls

@@ -169,3 +169,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-11-11T13:38:18
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2025-11-15T13:59:46
+// Change: fix: broken link in navigation menu

@@ -184,3 +184,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-20T11:40:45
 // Change: style: format code with prettier
+
+// Updated: 2025-11-24T01:57:41
+// Change: chore: clean up deprecated code

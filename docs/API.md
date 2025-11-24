@@ -191,3 +191,6 @@ This section describes the implementation.
 
 // Updated: 2025-10-31T17:46:18
 // Change: feat: implement pagination for lists
+
+// Updated: 2025-11-24T13:24:18
+// Change: docs: add architecture diagram

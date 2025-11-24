@@ -190,3 +190,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-25T21:17:10
 // Change: security: patch XSS vulnerability
+
+// Updated: 2025-11-24T13:24:18
+// Change: docs: add architecture diagram

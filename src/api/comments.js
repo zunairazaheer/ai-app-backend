@@ -193,3 +193,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-11-24T13:24:18
 // Change: docs: add architecture diagram
+
+// Updated: 2025-12-01T12:09:29
+// Change: refactor: move configuration to environment variables

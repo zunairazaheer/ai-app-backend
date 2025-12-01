@@ -178,3 +178,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-10T16:19:40
 // Change: chore: update .gitignore file
+
+// Updated: 2025-12-01T10:30:46
+// Change: docs: update changelog for v2.0

@@ -164,3 +164,6 @@
 
 // Updated: 2025-11-23T12:17:34
 // Change: chore: update .gitignore file
+
+// Updated: 2025-12-06T13:22:41
+// Change: perf: lazy load images

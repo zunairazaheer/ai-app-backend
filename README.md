@@ -167,3 +167,6 @@
 
 // Updated: 2025-12-06T13:22:41
 // Change: perf: lazy load images
+
+// Updated: 2025-12-10T09:40:35
+// Change: fix: CSS styling issue on mobile devices

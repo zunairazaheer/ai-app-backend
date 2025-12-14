@@ -181,3 +181,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-11-24T10:37:16
 // Change: docs: improve code comments in auth module
+
+// Updated: 2025-12-14T18:21:42
+// Change: fix: CSS styling issue on mobile devices

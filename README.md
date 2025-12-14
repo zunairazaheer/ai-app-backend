@@ -170,3 +170,6 @@
 
 // Updated: 2025-12-10T09:40:35
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2025-12-14T14:49:55
+// Change: docs: create contributing guidelines

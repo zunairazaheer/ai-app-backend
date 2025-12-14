@@ -161,3 +161,6 @@ This section describes the implementation.
 
 // Updated: 2025-09-04T15:52:48
 // Change: feat: add dark mode support
+
+// Updated: 2025-12-14T14:49:55
+// Change: docs: create contributing guidelines

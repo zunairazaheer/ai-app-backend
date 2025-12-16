@@ -160,3 +160,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-12-14T14:49:55
 // Change: docs: create contributing guidelines
+
+// Updated: 2025-12-16T16:16:29
+// Change: feat: add email verification

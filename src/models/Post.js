@@ -163,3 +163,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-10-19T13:44:18
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2025-12-22T17:16:42
+// Change: docs: add architecture diagram

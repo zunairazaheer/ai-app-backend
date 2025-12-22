@@ -167,3 +167,6 @@ This section describes the implementation.
 
 // Updated: 2025-12-14T18:21:42
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2025-12-22T17:16:42
+// Change: docs: add architecture diagram

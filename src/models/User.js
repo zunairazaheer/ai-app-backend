@@ -181,3 +181,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-12-01T10:30:46
 // Change: docs: update changelog for v2.0
+
+// Updated: 2025-12-24T11:07:15
+// Change: docs: update changelog for v2.0

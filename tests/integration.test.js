@@ -202,3 +202,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-11-11T13:38:18
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2025-12-24T11:07:15
+// Change: docs: update changelog for v2.0

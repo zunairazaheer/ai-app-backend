@@ -157,3 +157,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-12-05T21:16:08
 // Change: security: upgrade vulnerable dependencies
+
+// Updated: 2025-12-25T20:20:45
+// Change: docs: improve code comments in auth module

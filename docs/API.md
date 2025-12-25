@@ -194,3 +194,6 @@ This section describes the implementation.
 
 // Updated: 2025-11-24T13:24:18
 // Change: docs: add architecture diagram
+
+// Updated: 2025-12-26T03:47:51
+// Change: chore: remove unused imports and variables

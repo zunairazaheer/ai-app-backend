@@ -169,3 +169,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-12-14T18:21:42
 // Change: fix: CSS styling issue on mobile devices
+
+// Updated: 2025-12-25T18:53:42
+// Change: refactor: move configuration to environment variables

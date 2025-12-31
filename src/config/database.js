@@ -181,3 +181,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-08-22T12:57:44
 // Change: refactor: simplify authentication flow
+
+// Updated: 2025-12-31T09:43:33
+// Change: chore: upgrade Node.js version

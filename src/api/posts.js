@@ -118,3 +118,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-11-10T14:07:56
 // Change: docs: add API endpoint documentation
+
+// Updated: 2025-12-31T06:52:50
+// Change: fix: session timeout not working

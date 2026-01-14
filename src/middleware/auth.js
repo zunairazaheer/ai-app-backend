@@ -163,3 +163,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-12-31T09:43:33
 // Change: chore: upgrade Node.js version
+
+// Updated: 2026-01-14T17:33:00
+// Change: perf: lazy load images

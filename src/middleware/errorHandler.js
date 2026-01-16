@@ -202,3 +202,6 @@ export default { VERSION, processData };
 
 // Updated: 2025-12-24T15:35:28
 // Change: perf: implement caching for frequently accessed data
+
+// Updated: 2026-01-16T17:03:57
+// Change: fix: broken link in navigation menu

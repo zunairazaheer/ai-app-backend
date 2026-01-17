@@ -187,3 +187,6 @@ Random data: 3873
 
 // Updated: 2026-01-17T13:09:43
 // Change: fix: database connection pool exhaustion
+
+// Updated: 2026-01-18T02:42:10
+// Change: fix: correct timezone handling in scheduler

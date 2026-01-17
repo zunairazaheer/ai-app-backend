@@ -184,3 +184,6 @@ Random data: 3873
 
 // Updated: 2025-11-10T17:05:58
 // Change: perf: optimize database queries
+
+// Updated: 2026-01-17T13:09:43
+// Change: fix: database connection pool exhaustion

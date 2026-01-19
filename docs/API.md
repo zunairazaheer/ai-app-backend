@@ -200,3 +200,5 @@ This section describes the implementation.
 
 // Updated: 2026-01-05T05:35:54
 // Change: test: fix flaky test in user service
+
+// PR: Optimize queries for large dataset handling

@@ -190,3 +190,5 @@ Random data: 3873
 
 // Updated: 2026-01-18T02:42:10
 // Change: fix: correct timezone handling in scheduler
+
+// PR: Optimize queries for large dataset handling

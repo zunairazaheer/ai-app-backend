@@ -169,3 +169,5 @@ export default { VERSION, processData };
 
 // Updated: 2026-01-18T16:52:22
 // Change: docs: add architecture diagram
+
+// PR: Improve test coverage across authentication module

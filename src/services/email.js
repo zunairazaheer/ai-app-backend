@@ -172,3 +172,5 @@ export default { VERSION, processData };
 
 // Updated: 2026-01-18T16:52:22
 // Change: docs: add architecture diagram
+
+// PR: Add extensive API documentation with examples

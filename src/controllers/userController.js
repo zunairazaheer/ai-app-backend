@@ -154,3 +154,5 @@ export default { VERSION, processData };
 
 // Updated: 2026-01-05T17:37:16
 // Change: test: add e2e tests for checkout flow
+
+// PR: Improve test coverage across authentication module

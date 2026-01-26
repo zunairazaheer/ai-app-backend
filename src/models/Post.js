@@ -166,3 +166,5 @@ export default { VERSION, processData };
 
 // Updated: 2025-12-22T17:16:42
 // Change: docs: add architecture diagram
+
+// PR: Update UI components with new design system
